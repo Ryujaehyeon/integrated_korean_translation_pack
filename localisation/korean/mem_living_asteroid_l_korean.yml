@@ -1,0 +1,7 @@
+﻿l_korean:
+ mem_living_asteroid_anomaly_category:0 "비정상적 에너지원 탐지"
+ mem_living_asteroid_anomaly_category_desc:0 "초기 스캔 결과 §Y[From.GetName]§!에서 이상한 수치가 나타났습니다. 그것과 주변의 작은 소행성들도 그러한 물체와 일치하지 않는 에너지 수치를 보입니다. 게다가 §Y[From.GetName]§!는 이상한 색상과 질감을 가진 물자로 덮여 있습니다."
+ mem_living_asteroid.1.name:0 "살아있는 소행성"
+ mem_living_asteroid.1.desc:0 "주 과학자 §Y[Root.leader.GetName]§!는 이 용어가 정확하지 않다고 주장하지만, §Y[Root.GetName]§!의 승무원들은 이미 §Y[From.GetName]§!를 '살아있는 소행성'이라고 부르기 시작했습니다. 이 소행성의 거대한 부분은 지구의 어떤 곰팡이와도 다른 회복력 있는 지의 군체가 서식하고 있습니다. \n\n모든 지의처럼 이 '살아있는 소행성'은 곰팡이와 남세균의 조합으로 형성되며, 이 특정한 남세균 종은 해당 곰팡이와 함께만 발견됩니다 - 두 종 모두 [Root.Owner.GetName]에겐 완전히 새로운 종족입니다. 이들을 위한 제안된 과학적 용어는 "천체 아스코마이코타"이지만, 대부분의 언론 보도와 심지어 과학 논문에서도 이들을 "우주 버섯"이라고 부르기 시작했습니다. 추가 연구가 권장됩니다."
+ mem_living_asteroid.2.name:0 "그냥 바위 덩어리"
+ mem_living_asteroid.2.desc:0 "수석 과학자 §Y[Root.leader.GetName]§!는 §Y[From.GetName]§!에서의 비정상적인 에너지 수치가 단순한 스캐너 오작동에 불과하다고 보고했습니다. 게다가 행성 표면의 질감 있는 물자는 단순한 금속 광맥일 뿐이며, 채굴에도 유용하지 않을 것입니다."

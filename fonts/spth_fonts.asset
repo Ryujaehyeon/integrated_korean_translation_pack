@@ -1,0 +1,25 @@
+font = {
+    name = "JetBrainsMono_Medium_KoishiVer"
+
+    fontstyle = {
+        style = regular
+        file = "gfx/fonts/MaruBuri-Bold.ttf"
+    }
+}
+
+font = {
+    name = "spth_ui_fonts"
+    fontstyle = { style = regular file = "gfx/fonts/MaruBuri-Bold.ttf" }
+}
+font = {
+    name = "thndj_fonts"
+    fontstyle = { style = regular file = "gfx/fonts/MaruBuri-Bold.ttf" }
+}
+font = {
+    name = "spth_aurebesh_fonts"
+    fontstyle = { style = regular file = gfx/fonts/MaruBuri-Bold.ttf }
+}
+font = {
+    name = "spth_miui_fonts"
+    fontstyle = { style = regular file = gfx/fonts/MaruBuri-Bold.ttf }
+}

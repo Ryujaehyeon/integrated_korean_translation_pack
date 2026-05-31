@@ -1,0 +1,7 @@
+﻿l_korean:
+ mem_star_colors_category:0 "이상한 색상"
+ mem_star_colors_category_desc:0 "별의 관측 결과, 그 광구에서 비정상적인 색상의 섬광이 포착되었습니다. 이들의 스펙트럼 분석은 이 클래스의 별에서 발견되는 전형적인 원소와 일치하지 않습니다."
+ mem_star_colors.1.name:0 "다른 세계의 색상"
+ mem_star_colors.1.desc:0 "§Y[From.GetName]§!의 광구에 대한 지속적인 관찰을 통해 다른 차원과 연결된 여러 개의 미세 웜홀을 발견했습니다. 별 내부에서의 지속적인 자발적 형성과 붕괴는 그 안에 대량의 이국적인 입자를 축적하게 하여, 비정상적인 스펙트럼 판독값을 초래하고 있습니다."
+ mem_star_colors.2.name:0 "감지기 결함"
+ mem_star_colors.2.desc:0 "§Y[FromFrom.GetName]§!의 초기 관측 결과는 다시금 보이지 않습니다. 초기의 특이한 스펙트럼 관측 현상은 감지기의 결함일 것입니다."

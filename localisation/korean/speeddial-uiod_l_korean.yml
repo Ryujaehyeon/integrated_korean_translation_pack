@@ -1,0 +1,12 @@
+﻿l_korean:
+ speeddial_uiod_hover:0 "길게 눌러 §HSpeedDial§!을 이동합니다"
+ speeddial_title_extend_trader_tooltip:0 "§H교역상§! 목록을 펼칩니다"
+ speeddial_title_retract_trader_tooltip:0 "§H교역상§! 목록을 접습니다"
+ speeddial_title_extend_marauder_tooltip:0 "§H약탈자§! 목록을 펼칩니다"
+ speeddial_title_retract_marauder_tooltip:0 "§H약탈자§! 목록을 접습니다"
+ speeddial_button_contact_salvager_tooltip:0 "§H인양자§!에게 연락합니다"
+ speeddial_button_contact_shroudwalker_tooltip:0 "§H장막 방랑자§!에게 연락합니다"
+ speeddial_button_contact_mindwarden_tooltip:0 "§H정신 감시관§!에게 연락합니다"
+ speeddial_button_contact_mercenary_enclave_tooltip:0 "§H용병 엔클레이브§!에 연락합니다"
+ shroud_cooldown_2:0 "$shroud_cooldown$"
+ shroud_precog_cooldown_2:0 "$shroud_cooldown$"

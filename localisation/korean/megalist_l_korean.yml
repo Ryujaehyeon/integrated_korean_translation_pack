@@ -1,0 +1,10 @@
+﻿l_korean:
+ megalist_title:0 "거대 구조물 목록"
+ megalist_desc:0 ""
+ MEGALIST_ENTRY:0 "[This.solar_system.Star.GetName]의 [This.GetName]"
+ MEGALIST_ENTRY_DESC:0 ""
+ megalist_building_title:0 "거대 구조물 목록 업그레이드"
+ megalist_building_desc:0 ""
+ MEGALIST_BUILDING_ENTRY:0 "[This.solar_system.Star.GetName]의 [This.GetName]"
+ MEGALIST_BUILDING_ENTRY_DESC:0 ""
+ MEGASTRUCTURE_SELECTION_LEGEND:0 "§H아이콘 키:§!\n\n£galwonders£ §E$ap_galactic_wonders$ 잠금 해제§!\n이 거대 구조물을 완성하면 §Y$ap_galactic_wonders$§! 승격 특전의 건축 요구 사항이 만족됩니다.\n\n£gigastructural£ §E$ap_gigastructural_constructs$ 잠금 해제§!\n이 거대 구조물을 완성하면 §Y$ap_gigastructural_constructs$§! 승격 특전의 건축 요구 사항이 만족됩니다.\n\n£megaupgrade£ §E업그레이드로 잠금 해제되는 특전§!\n위의 아이콘 중 하나의 옆에 표시되면, 그 특전은 거대 구조물의 추후 업그레이드 이후 잠금 해제되며 즉시 이용할 수는 없음을 의미합니다.\n\n§L알림: Gigastructural Engineering & More 이외의 모드가 추가하는 거대 구조물들에는 이러한 아이콘이 없을테지만, 그래도 특전, 특히나 $ap_galactic_wonders$는 잠금 해제됩니다.§!"

@@ -1,0 +1,12 @@
+﻿l_korean:
+ mem_engineered_wildlife_category:0 "호기심 많은 야생동물"
+ mem_engineered_wildlife_category_desc:0 "스캔 결과, [root.GetName]에 서식하는 야생 동물 사이에서 비정상적인 행동 패턴이 나타났습니다. 이것이 잠재적인 식민지 개발에 어떤 영향을 미칠지 보려면 추가 연구가 필요합니다."
+ mem_engineered_wildlife.1.name:0 "야생생물은...귀여워."
+ mem_engineered_wildlife.1.desc:0 "[from.GetName]의 토착 야생동물은 우리의 연구원 앞에서 매우 차분합니다. 게다가 지금까지 만난 모든 종은 승무원에게 매우 미적으로 매력적이며, 보호 본능과 동료애를 불러일으킵니다. [root.leader.GetName]는 이것이 어떤 페로몬이나 다른 외계 현상일까 걱정했지만, 결과는 문제의 동물들이 단순히 "귀엽다"고 여겨진다는 것을 보여줍니다. [from.GetName]의 동물들이 가진 매력적인 특성은 자연 진화의 결과로 보기에는 너무 보편적이며, 현재의 주요 이론은 이 세계가 과거에 어떤 종류의 동물원으로 만들기 위해 유전 공학의 대상이었을 수 있다는 것입니다. 어쨌든, 현지 동물의 친근한 성격은 우리가 이 행성을 식민지화하기로 선택한다면 환영받을 것입니다."
+ mem_engineered_wildlife.1.option:0 "예상치 못한 일이로군."
+ mem_cute_wildlife:0 "귀여운 야생동물"
+ mem_cute_wildlife_desc:0 "이 행성은 귀여움을 위해 유전자 조작된 다양한 야생 생물의 표본이 서식하고 있습니다."
+ mem_engineered_wildlife.2.name:0 "사방에 깔린 적대적인 야생동물!"
+ mem_engineered_wildlife.2.desc:0 "[from.GetName]의 토착 야생동물은 믿을 수 없을 만큼 적대적이고 위험합니다! [root.GetName]의 여러 승무원이 야생동물 샘플을 채취하는 과정에서 목숨을 잃었으며, 이곳의 모든 생물은 어떤 식으로든 유기체 생명체에 치명적입니다. 우리가 포획한 종의 유전자 샘플링 결과는 유전자 조작의 명확한 증거를 보여줍니다. [from.GetName]는 외계 생물 무기의 개발을 위한 실험실이었으며, 결국 그것이 유출된 것으로 보입니다. 생물들이 그들의 창조자를 파괴했는지는 알 수 없습니다. 그럼에도 불구하고 이러한 생물의 적대적인 특성은 우리가 개척을 추진할 경우 우리 개척민에게 상당한 장벽을 만들 것입니다."
+ mem_engineered_wildlife_dangerous:0 "위험한 야생생물"
+ mem_engineered_wildlife_dangerous_desc:0 "이 행성은 치명적인 유전적으로 조작된 야생동물의 다양한 표본이 살고 있습니다."

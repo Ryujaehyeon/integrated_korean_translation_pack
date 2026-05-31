@@ -1,0 +1,12 @@
+﻿l_korean:
+ mem_imperialist_intimidation.2.name:0 "[hegimp.GetAdj] 함대가 우리 식민지들을 위협하다."
+ mem_imperialist_intimidation.2.desc_01:0 "[hegimp.GetName]가 우리의 영토 근처의 항성계를 주장하기 시작했습니다. [hegimp.GetAdj] 세력은 이미 그들의 위치를 강화하기 시작했으며, 경계 지역으로 함대의 일부를 파견했습니다. 공식적으로 이 함선들은 정기 훈련을 수행하고 있지만, 그들의 메시지는 분명합니다: [hegimp.GetName]는 여기에 머무를 것입니다. 그 결과, [Root.GetName]의 인구는 행성을 방어하기 위해 맹세한 신성한 질서에 모이기 시작했습니다."
+ mem_imperialist_intimidation.2.holyorder:0 "정의로운 자들의 신앙은 흔들리지 않는다."
+ mem_imperialist_intimidation.2.desc_02:0 "[hegimp.GetName]가 우리 공간 근처의 항성계를 주장하기 시작했습니다. [hegimp.GetAdj]의 군대는 이미 그들의 위치를 강화하기 시작했으며, 경계 지역에 함대의 일부를 파견했습니다. 공식적으로 이 함선들은 정기 훈련을 수행하고 있지만, 그들의 메시지는 분명합니다: [hegimp.GetName]는 여기서 머무를 것입니다. 그 결과, [Root.GetName]의 민병대 자원봉사자 수가 전례 없는 숫자로 급증했습니다."
+ mem_imperialist_intimidation.2.letthemcome:0 "[Root.GetName]을 위하여!"
+ mem_imperialist_intimidation.2.desc_03:0 "[hegimp.GetName]가 우리 공간 근처의 항성계를 주장하기 시작했습니다. [hegimp.GetAdj] 군대는 이미 그들의 위치를 강화하기 시작했으며, 경계 지역에 함대의 일부를 파견했습니다. 공식적으로 이 함선들은 정기 훈련을 수행하고 있지만, 그들의 메시지는 분명합니다: [hegimp.GetName]는 여기서 머물 것입니다. 그 결과, 우리 제국 전역의 사람들이 형제를 보호하기 위해 동원되고 있습니다."
+ mem_imperialist_intimidation.2.unitedfront:0 "우린 [Root.GetName]을(를) 실망시키지 않을 것이다."
+ mem_imperialist_intimidation.2.desc_04:0 "[hegimp.GetName]가 우리 공간 근처의 항성계를 주장하기 시작했습니다. [hegimp.GetAdj] 세력은 이미 그들의 위치를 강화하기 시작했으며, 경계 지역에 함대의 일부를 파견했습니다. 공식적으로 이 함선들은 정기 훈련을 수행하고 있지만, 그들의 메시지는 분명합니다: [hegimp.GetName]는 여기에 머무를 것입니다. 그 결과, [Root.GetName]의 인구는 이러한 어려운 시기에 용기를 기원하기 위해 단결했습니다."
+ mem_imperialist_intimidation.2.prayer:0 "우린 절망에 굴복하지 않을 것이다."
+ mem_imperialist_intimidation.2.desc_05:0 "[hegimp.GetName]가 우리의 영토 근처의 항성계를 주장하기 시작했습니다. [hegimp.GetAdj] 군대는 이미 그들의 위치를 강화하기 시작했으며, 경계 지역으로 함대의 일부를 파견했습니다. 공식적으로 이 함선들은 정기 훈련을 수행하고 있지만, 그들의 메시지는 분명합니다: [hegimp.GetName]는 여기서 머무를 것입니다. 그러나 [Root.GetName]의 사람들은 이러한 도발에 대응하여 내적으로 주의를 돌리고 있습니다."
+ mem_imperialist_intimidation.2.default:0 "두려움에 굴복하지 않는 건 지혜로운 일이다."

@@ -1,0 +1,3 @@
+﻿l_korean:
+ ap_defender_of_the_galaxy_desc:0 "성간 국가들이 사소한 분쟁으로 서로 다투는 동안, 상상할 수 없는 힘을 지닌 사악한 세력들이 모든 지성 생명체에 맞서 진열하고 있습니다. 누가 우리를 지켜 줄까요?\n$ap_galactic_contender_desc$"
+ ap_defender_of_the_galaxy_modifier_desc:0 "엔드게임 위기 세력에 주는 피해: §G+50%§!\n$mod_damage_vs_country_type_fallen_empire_mult$: §G+33%§!"

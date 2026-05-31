@@ -1,0 +1,10 @@
+﻿l_korean:
+ mem_ancient_graveyard_category:0 "기묘한 문양"
+ mem_ancient_graveyard_category_desc:0 "우리의 감지기가 행성 표면의 넓은 계곡에서 이상한 신호를 포착하고 있습니다. 이 계곡은 일반 격자 패턴으로 배열된 작은 금속 스파이크로 가득 차 있는 것 같습니다. 그러나 스파이크가 너무 작아 궤도에서 제대로 식별하기는 어렵습니다. 우리는 이들을 더 자세히 조사해야 합니다."
+ mem_ancient_graveyard.1.name:0 "마지막 휴식 장소"
+ mem_ancient_graveyard.1.desc:0 "우리 조사 팀은 계곡에 거의 10억 개의 위를 향한 에너지 소총이 흩어져 있는 것을 발견했습니다. 각 총구는 외계 디자인의 헬멧으로 덮여 있는 것처럼 보입니다. 이 계곡은 잊혀진 전쟁에서 전사한 수많은 군인들의 안식처인 것 같습니다. 거의 진공 상태 덕분에 잘 보존된 이 특이한 소총 디자인은 우리 과학자들에게 흥미로운 관심을 끌고 있습니다. 그러나 지하 깊숙한 곳에 대한 심층 스캔과 주변 지역에 대한 확장 스캔에서도 추가적인 발견은 없었습니다. 이곳에서 수천 년 전 실제로 무슨 일이 있었는지는 결코 알 수 없을 것 같습니다."
+ mem_ancient_graveyard.2.name:0 "거짓 긍정"
+ mem_ancient_graveyard.2.desc:0 "발견했다고 한 기묘한 문양은 보정 센서의 작동 오류였던 것으로 보입니다. 조사팀은 아무것도 발견하지 못했고, 두 번째 검사에서는 이전과 같은 결과를 도출해내지 않았습니다."
+ mem_ancient_graveyard.1.default:0 "고이 잠드소서."
+ mem_ancient_graveyard.1.xenophobe:0 "좋은 외계종은 죽은 외계종일뿐."
+ mem_ancient_graveyard.2.dissapointing:0 "실망스럽군."

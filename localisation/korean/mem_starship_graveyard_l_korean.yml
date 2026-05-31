@@ -1,0 +1,13 @@
+﻿l_korean:
+ mem_starship_graveyard.101.title:0 "흥미로운 발견"
+ mem_starship_graveyard.101.desc:0 "[mem_graveyard_planet.GetName]에 위치한 우리의 연구 기지가 우주선 묘지에서 잔해들 사이에 있는 비정상적인 발견을 보고했습니다: 여러 가지 흥미로운 특징을 가진 거의 온전한 전투함입니다. 그들은 잔해 조사를 돕기 위해 과학 함선의 지원을 요청하고 있습니다."
+ mem_starship_graveyard.101.a:0 "즉시 과학선을 보내라!"
+ mem_starship_graveyard.101.b:0 "보낼 수 있는 과학선이 없다."
+ MEM_STARSHIP_GRAVEYARD_PROJECT:0 "우주 묘지 원정대"
+ MEM_STARSHIP_GRAVEYARD_PROJECT_DESC:0 "묘지에 이상하게도 멀쩡하게 보이고 여러 신기한 점을 가지고 있는 전투함 하나가 있습니다. 연구원들이 과학선을 요청했습니다."
+ mem_starship_graveyard.103.title:0 "가치있는 발견"
+ mem_starship_graveyard.103.desc:0 "우리 연구원들이 난파선을 분석하고 설계구조에서 상당한 양의 엔진 정보를 얻었습니다."
+ mem_starship_graveyard.103.a:0 "훌륭해!"
+ mem_starship_graveyard.104.title:0 "가치있는 발견"
+ mem_starship_graveyard.104.desc:0 "우리 연구원들이 난파선을 분석했지만, 딱히 특별한 점은 없었습니다. 다만 엄청나게 강력한 물질로 만들어진 선체는 우리기 전에 봤던 수정 생명체의 그것과 흡사합니다. 다음 연구를 위한 표본을 얻을 수 있었습니다."
+ mem_starship_graveyard.104.a:0 "훌륭해!"

@@ -1,0 +1,9 @@
+﻿l_korean:
+ mem_solar_riches_category:0 "풍부한 태양열"
+ mem_solar_riches_category_desc:0 "이 항성을 조사한 결과, 항성 주변에 작은 구조물이 있을 가능성이 제기되었습니다. 최적의 궤도 추적 결과 이 구조물이 느린 속도로 궤도 평형을 잃고 있다고 합니다."
+ mem_solar_riches.1.name:0 "태양열 집열기 발견"
+ mem_solar_riches.1.desc:0 "과학 장교 §Y[Root.leader.GetName]§!는 알려지지 않은 외계 종족이 만든 여러 낡은 태양열 집열기를 발견했습니다. 그들이 나쁜 상태임에도 불구하고, 그들은 여전히 우리가 지금까지 달성한 것보다 더 높은 효율로 태양 에너지를 수집하고 있습니다."
+ mem_solar_riches.1.a:0 "에너지를 뽑아낸 다음, 폐기해버려."
+ mem_solar_riches.1.b:0 "설계 양식을 연구하라."
+ mem_solar_riches.2.name:0 "궤도 추적 실패"
+ mem_solar_riches.2.desc:0 "§Y[Root.leader.GetName]§!는 모든 구조물의 흔적이 사라졌다고 보고하며, 존재하지 않는 물체의 궤도 붕괴를 계산하는 데 소모된 자원에 대해 사과합니다."

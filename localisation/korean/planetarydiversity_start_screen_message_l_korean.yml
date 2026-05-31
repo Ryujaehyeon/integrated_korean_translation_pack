@@ -1,0 +1,10 @@
+﻿l_korean:
+ START_SCREEN_PART_ONE_WET_SUPERHABITABLE:0 "수천 년 전, 최초의 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 풍부한 정글과 얕은 바다 속에서 형성된 이후로, 우리의 문명은 퍼져나가고 번영하였습니다."
+ START_SCREEN_PART_ONE_DRY_SUPERHABITABLE:0 "수천 년 전, 첫 번째 원시 [GetSpeciesName] 공동체가 비옥한 강 계곡 [GetHomeWorldName]에서 형성된 이후로, 우리의 문명은 퍼지고 번영하였습니다."
+ START_SCREEN_PART_ONE_COLD_SUPERHABITABLE:0 "수천 년 전, 최초의 원시 [GetSpeciesName] 공동체가 풍부한 북부 숲 [GetHomeWorldName]에서 형성된 이후로, 우리의 문명은 퍼지고 번영해 왔습니다."
+ START_SCREEN_PART_ONE_WET_TIDALLY_LOCKED:0 "영원한 [GetHomeWorldName]의 끊임없는 태양 아래 그늘진 숲 속에서 최초의 원시 [GetSpeciesName] 공동체가 형성된 이후 수천 년이 흘렀고, 우리의 문명은 퍼져나가 번영하였습니다."
+ START_SCREEN_PART_ONE_DRY_TIDALLY_LOCKED:0 "첫 번째 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 황혼 지대에서 형성된 이후 수천 년이 흘렀고, 우리의 문명은 퍼져나가 번영하였습니다."
+ START_SCREEN_PART_ONE_COLD_TIDALLY_LOCKED:0 "첫 번째 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 얼어붙은 황혼 해안에 형성된 이후 수천 년이 흘렀고, 우리의 문명은 퍼져나가 번영하였습니다."
+ START_SCREEN_PART_ONE_WET_CAVE:0 "첫 번째 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 광대한 무성한 동굴에서 형성된 이후 수천 년이 흘렀고, 우리의 문명은 퍼지고 번영하였습니다."
+ START_SCREEN_PART_ONE_DRY_CAVE:0 "수천 년 전 최초의 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 사암 동굴에서 형성된 이후, 우리의 문명은 퍼져나가고 번영하였습니다."
+ START_SCREEN_PART_ONE_COLD_CAVE:0 "첫 번째 원시 [GetSpeciesName] 공동체가 [GetHomeWorldName]의 얼음으로 가득 찬 동굴에서 형성된 이후 수천 년이 흘렀고, 우리의 문명은 퍼지고 번영하였습니다."

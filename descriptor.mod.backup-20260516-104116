@@ -1,0 +1,8 @@
+﻿version="1.0"
+tags={
+    "Translation"
+    "Localisation"
+}
+name="MKC Integrated Korean Local"
+supported_version="4.3.*"
+path="mod/mkc_integrated_korean_local"

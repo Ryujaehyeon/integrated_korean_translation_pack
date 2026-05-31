@@ -1,0 +1,10 @@
+﻿l_korean:
+ mem_flight_recorder_category:0 "미확인 신호"
+ mem_flight_recorder_category_desc:0 "우리는 §Y[Root.GetName]§!에서 발생하는 반복 신호를 감지하고 있습니다. 아마도 구조 신호 또는 위치 표시기일 것입니다."
+ mem_flight_recorder.1.name:0 "비행 기록 장치"
+ mem_flight_recorder.1.desc:0 "§Y[Root.GetName]§!는 §Y[From.GetName]§! 주위를 도는 작은 장치를 가로채고 회수했습니다.\n\n추출된 데이터를 판단할 때, 이는 군용 순양함의 비행 기록기로, 무장 약탈자들에 의해 배가 별로 곧장 돌진하기 직전에 버려진 것입니다.\n\n내부 객실 녹음에서 들리는 목소리의 세트에 따라, 이 납치자들은 자유 전사들이거나 민족주의 광신자들입니다. 방어 승무원은 침입자들을 그들의 국가의 무분별한 공격이 억제된 것에 대한 잔인한 보복으로서, 연약한 은하 평화를 방해하려는 테러리스트로 묘사합니다; 침투 팀은 그들의 민족을 배신한 이웃들에 의해 강요된 제국주의 억압의 멍에에서 해방하기 위해 목숨을 바칠 준비가 된 해방자로 자신들을 소개합니다.\n\n어쨌든, 비행 데이터의 원시 스트림은 우리의 연구에 유용할 수 있습니다."
+ mem_flight_recorder.2.name:0 "신호를 놓침"
+ mem_flight_recorder.2.desc:0 "§Y[Root.GetName]§!이(가) 신호를 추적하지 못하고 놓쳤습니다. 아마 앞으로도 다시 추적할 수 없을 겁니다."
+ mem_flight_recorder.dissapointing:0 "실망스럽군."
+ mem_flight_recorder.3.name:0 "부비트랩"
+ mem_flight_recorder.3.desc:0 "우리 함선이 §Y[From.GetName]§! 궤도를 도는 작은 장치를 회수한 직후, 우리는 그들과의 연락을 잃었습니다. 이 장치는 우주선에 실릴 때 폭발하도록 장치된 것으로 보이며, 아마도 일종의 함정일 것입니다."

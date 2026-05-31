@@ -1,0 +1,8 @@
+﻿l_korean:
+ first_league_homeworld_desc:0 "이 행성 규모의 영묘는 한때 제1연맹의 빛나는 행정 중심지였습니다. 오랜 세월 동안 수많은 변천을 겪었지만, 한때 행성 전체 표면을 뒤덮었던 도시의 폐허는 어디에서나 찾아볼 수 있습니다."
+ resolution_custodian_united_front_modifier_desc:0 "위기 세력 상대 피해량: §G+20%§!\n월간 에너지 크레딧: §R-3%§!"
+ resolution_rulesofwar_reverence_for_life_tooltip:0 "§Y정화§!(추방 제외)와 §Y행성 파괴포§! 사용은 §R금지§!됩니다. 단, §R위기 세력§!과의 전투인 경우는 예외입니다."
+ resolution_rulesofwar_independent_tribunals_tooltip:0 "§Y아마겟돈§! 및 §Y무차별§! 폭격을 수행하거나, §Y행성 보호막§! 이외의 콜로서스 무기를 사용하는 것은 §R금지§!됩니다. 단, §R위기 세력§!과의 전투인 경우는 예외입니다."
+ resolution_rulesofwar_last_resort_doctrine_tooltip:0 "§Y무제한 전쟁§! 전쟁 철학은 §R금지§!됩니다.\n함선 건조 속도(§R위기§! 진행 중): §G+25%§!"
+ resolution_rulesofwar_demobilization_initiative_tooltip:0 "§R위기§!가 발생 중인 경우를 제외하고, §Y군사 경제§! 경제 정책은 금지됩니다.\n함선 건조 속도(§R위기§! 진행 중): §G+25%§!"
+ sship_build_speed_mult_crisiss:0 "벽에 적힌 경고"

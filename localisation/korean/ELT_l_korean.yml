@@ -1,0 +1,363 @@
+﻿l_korean:
+  #generator focus
+
+ leader_trait_extra_generator_focus:0 "발전 특화"
+ leader_trait_extra_generator_focus_desc:0 "이 지도자는 에너지 생성 과정에 대한 깊은 이해를 가지고 있어 해당 시설을 효율적으로 감독할 수 있습니다."
+ leader_trait_extra_generator_focus_2:0 "$leader_trait_extra_generator_focus$ II"  
+ leader_trait_extra_generator_focus_2_desc:0 "$leader_trait_extra_generator_focus_desc$"  
+ leader_trait_extra_generator_focus_3:0 "$leader_trait_extra_generator_focus$ III"
+ leader_trait_extra_generator_focus_3_desc:0 "$leader_trait_extra_generator_focus_desc$"
+
+ # Mining Focus
+
+ leader_trait_extra_mining_focus:0 "채굴 특화"
+ leader_trait_extra_mining_focus_desc:0 "이 지도자는 채굴 과정에 대한 깊은 이해를 가지고 있어 해당 시설을 효율적으로 감독할 수 있습니다."
+ leader_trait_extra_mining_focus_2:0 "$leader_trait_extra_mining_focus$ II"
+ leader_trait_extra_mining_focus_2_desc:0 "$leader_trait_extra_mining_focus_desc$"
+ leader_trait_extra_mining_focus_3:0 "$leader_trait_extra_mining_focus$ III"
+ leader_trait_extra_mining_focus_3_desc:0 "$leader_trait_extra_mining_focus_desc$"
+
+ # farming focus
+
+ leader_trait_extra_farming_focus:0 "농업 특화"
+ leader_trait_extra_farming_focus_desc:0 "이 지도자는 농업 과정에 대한 깊은 이해를 가지고 있어 해당 시설을 효율적으로 감독할 수 있습니다."
+ leader_trait_extra_farming_focus_2:0 "$leader_trait_extra_farming_focus$ II"
+ leader_trait_extra_farming_focus_2_desc:0 "$leader_trait_extra_farming_focus_desc$"
+ leader_trait_extra_farming_focus_3:0 "$leader_trait_extra_farming_focus$ III"
+ leader_trait_extra_farming_focus_3_desc:0 "$leader_trait_extra_farming_focus_desc$"
+
+ # fortress focus
+
+ leader_trait_extra_fortress_focus:0 "요새 특화"
+ leader_trait_extra_fortress_focus_desc:0 "이 지도자는 성계의 안전을 유지하기 위한 보안 요구 사항을 깊이 이해하고 있어, 이 요새 행성을 효율적으로 감독할 수 있습니다."
+ leader_trait_extra_fortress_focus_2:0 "$leader_trait_extra_fortress_focus$ II"
+ leader_trait_extra_fortress_focus_2_desc:0 "$leader_trait_extra_fortress_focus_desc$"
+ leader_trait_extra_fortress_focus_3:0 "$leader_trait_extra_fortress_focus$ III"
+ leader_trait_extra_fortress_focus_3_desc:0 "$leader_trait_extra_fortress_focus_desc$"
+
+ # overseer focus
+
+ leader_trait_extra_overseer_focus:0 "감독관 특화"
+ leader_trait_extra_overseer_focus_desc:0 "이 지도자는 다른 생명체의 행성 전역 시설을 감독하는 데 경험이 풍부합니다. 이 지도자의 인도에 따라, 그들은 명령을 정확하게 따를 것입니다."
+ leader_trait_extra_overseer_focus_2:0 "$leader_trait_extra_overseer_focus$ II"
+ leader_trait_extra_overseer_focus_2_desc:0 "$leader_trait_extra_overseer_focus_desc$"
+ leader_trait_extra_overseer_focus_3:0 "$leader_trait_extra_overseer_focus$ III"
+ leader_trait_extra_overseer_focus_3_desc:0 "$leader_trait_extra_overseer_focus_desc$"
+
+ # Army focus
+
+ leader_trait_extra_army_focus:0 "지상군 특화"
+ leader_trait_extra_army_focus_desc:0 "이 지도자는 행성 전역의 지상군 훈련 시설을 관리하는 데 경험이 풍부하며, 신병들이 최고 수준으로 훈련받도록 보장할 것입니다."
+ leader_trait_extra_army_focus_2:0 "$leader_trait_extra_army_focus$ II"
+ leader_trait_extra_army_focus_2_desc:0 "$leader_trait_extra_army_focus_desc$"
+ leader_trait_extra_army_focus_3:0 "$leader_trait_extra_army_focus$ III"
+ leader_trait_extra_army_focus_3_desc:0 "$leader_trait_extra_army_focus_desc$"
+
+ # Universal focus
+
+ leader_trait_extra_universal_focus:0 "범용 연구 집중"
+ leader_trait_extra_universal_focus_desc:0 "이 지도자는 분산형 연구 활동이 기술적 역량을 발전시키는 이상적인 해결책이라고 생각합니다. 각 연구 분야를 부분적으로, 하지만 효과적으로 감독합니다."
+ leader_trait_extra_universal_focus_2:0 "$leader_trait_extra_universal_focus$ II"
+ leader_trait_extra_universal_focus_2_desc:0 "$leader_trait_extra_universal_focus_desc$"
+ leader_trait_extra_universal_focus_3:0 "$leader_trait_extra_universal_focus$ III"
+ leader_trait_extra_universal_focus_3_desc:0 "$leader_trait_extra_universal_focus_desc$"
+
+ # Archao focus
+
+ leader_trait_extra_archao_focus:0 "고고학 집중"
+ leader_trait_extra_archao_focus_desc:0 "이 과학자는 역사에서 배울 수 있는 교훈을 중요하게 생각합니다. 과거를 연구함으로써 연구를 새로운 지평으로 이끌어갑니다."
+ leader_trait_extra_archao_focus_2:0 "$leader_trait_extra_archao_focus$ II"
+ leader_trait_extra_archao_focus_2_desc:0 "$leader_trait_extra_archao_focus_desc$"
+ leader_trait_extra_archao_focus_3:0 "$leader_trait_extra_archao_focus$ III"
+ leader_trait_extra_archao_focus_3_desc:0 "$leader_trait_extra_archao_focus_desc$"
+
+ # Astral focus
+
+ leader_trait_extra_astral_focus:0 "아스트랄 집중"
+ leader_trait_extra_astral_focus_desc:0 "이 지도자는 아스트랄 균열 내부에서 발견한 것에 매료되었습니다. 아스트랄 구조를 탐사하고, 이를 사용 가능한 실로 엮어내는 데 집중합니다."
+ leader_trait_extra_astral_focus_2:0 "$leader_trait_extra_astral_focus$ II"
+ leader_trait_extra_astral_focus_2_desc:0 "$leader_trait_extra_astral_focus_desc$"
+ leader_trait_extra_astral_focus_3:0 "$leader_trait_extra_astral_focus$ III"
+ leader_trait_extra_astral_focus_3_desc:0 "$leader_trait_extra_astral_focus_desc$"
+
+ # Admiral traits
+
+ leader_trait_extra_precision_attacker:0 "정밀 타격가"
+ leader_trait_extra_precision_attacker_desc:0 "이 지도자는 불필요한 탄약을 소모하기보다 정밀하고 유도된 공격을 중시합니다. 이들의 함대는 목표를 추적하고 매 공격을 명중시키는 데 탁월합니다."
+ leader_trait_extra_precision_attacker_2:0 "$leader_trait_extra_precision_attacker$ II"
+ leader_trait_extra_precision_attacker_2_desc:0 "$leader_trait_extra_precision_attacker_desc$"
+ leader_trait_extra_precision_attacker_3:0 "$leader_trait_extra_precision_attacker$ III"
+ leader_trait_extra_precision_attacker_3_desc:0 "$leader_trait_extra_precision_attacker_desc$"
+
+ leader_trait_extra_brute_forcer:0 "무차별 공격가"
+ leader_trait_extra_brute_forcer_desc:0 "이 지도자는 순수한 공격 횟수로 적을 압도하는 것을 중시합니다. 이들의 함대는 빗나가는 탄의 수에 상관없이 빠르고 자주 사격하도록 훈련받았습니다."
+ leader_trait_extra_brute_forcer_2:0 "$leader_trait_extra_brute_forcer$ II"
+ leader_trait_extra_brute_forcer_2_desc:0 "$leader_trait_extra_brute_forcer_desc$"
+ leader_trait_extra_brute_forcer_3:0 "$leader_trait_extra_brute_forcer$ III"
+ leader_trait_extra_brute_forcer_3_desc:0 "$leader_trait_extra_brute_forcer_desc$"
+
+ leader_trait_extra_slowhard:0 "느리지만 치명적인"
+ leader_trait_extra_slowhard_desc:0 "이 지도자는 자동 또는 속사형 무기보다 중화기를 선호합니다. 이들의 함대는 자주 사격하지는 않지만, 발사하는 한 발 한 발이 파괴적입니다."
+ leader_trait_extra_slowhard_2:0 "$leader_trait_extra_slowhard$ II"
+ leader_trait_extra_slowhard_2_desc:0 "$leader_trait_extra_slowhard_desc$"
+ leader_trait_extra_slowhard_3:0 "$leader_trait_extra_slowhard$ III"
+ leader_trait_extra_slowhard_3_desc:0 "$leader_trait_extra_slowhard_desc$"
+
+ leader_trait_extra_fastsoft:0 "다다익선"
+ leader_trait_extra_fastsoft_desc:0 "이 지도자는 압도적인 화력보다 속사 전략을 선호합니다. 이들의 함대는 소형 탄환의 파도를 쏟아내지만, 각 탄환은 제조 기술이 허용하는 한도 내에서 최대한의 정확도를 자랑합니다."
+ leader_trait_extra_fastsoft_2:0 "$leader_trait_extra_fastsoft$ II"
+ leader_trait_extra_fastsoft_2_desc:0 "$leader_trait_extra_fastsoft_desc$"
+ leader_trait_extra_fastsoft_3:0 "$leader_trait_extra_fastsoft$ III"
+ leader_trait_extra_fastsoft_3_desc:0 "$leader_trait_extra_fastsoft_desc$"
+
+ # Destiny traits
+
+ leader_trait_extra_ruralist:0 "전원주의자"
+ leader_trait_extra_ruralist_desc:0 "이 지도자는 분산형 기반 시설을 구현하여 행성 전역에 시설을 배치합니다. 시설의 생산량을 향상시키지만, 이는 인구 증가에 비례하지 않습니다."
+ leader_trait_extra_military_studies:0 "군사 과학자"
+ leader_trait_extra_military_studies_desc:0 "이 지도자는 군사 연구에 집중하며, 자신의 기술을 행성의 병사들로부터 얻는 과학적 발전을 향상시키는 데 쏟아붓습니다."
+ leader_trait_extra_veteran_pops:0 "숙련자 편향"
+ leader_trait_extra_veteran_pops_desc:0 "이 지도자는 경험이 풍부한 인력을 편애합니다. 이러한 태도는 숙련 노동자들에게 환영받아 그들의 성과를 향상시키지만, 행성의 인구 성장을 감소시킵니다."
+ leader_trait_extra_grand_researcher:0 "위대한 연구원"
+ leader_trait_extra_grand_researcher_desc:0 "이 지도자는 엄청난 과학적 야망을 품고 있으며, 이 행성을 과학 발전의 선두 주자로 만듭니다."
+ leader_trait_extra_genius_archaologist:0 "천재 고고학자"
+ leader_trait_extra_genius_archaologist_desc:0 "이 지도자는 고대 제국, 파괴된 문명, 혹은 잊힌 유물의 숨겨진 역사를 밝혀내는 데 통달했습니다."
+ leader_trait_extra_silent_reconnaisance:0 "침묵 속의 속삭임"
+ leader_trait_extra_silent_reconnaisance_desc:0 "'그들은 우리 암호를 해독하는 것이 불가능하다고 했어. 어떻게 우리 위치를 알았지? 대체 어떻게?!' - 적 사령부에서 녹음된 대화."
+ leader_trait_extra_grand_admiral:0 "대제독"
+ leader_trait_extra_grand_admiral_desc:0 "이 지도자는 수천 번의 공격을 이끌었으며, 그 경험은 우리 제국 전역에 널리 알려져 있습니다. 그의 전략적 전문성으로, 우리의 적들은 우리의 힘 아래 짓밟히는 모래알에 불과할 것입니다."
+ leader_trait_extra_ground_hero:0 "지상의 영웅"
+ leader_trait_extra_ground_hero_desc:0 "먼지가 가라앉고 적이 후퇴했을 때, 이 지도자는 의기양양하게 서 있었습니다. 그의 군대는 그를 구원자로 칭송했고, 적들은 그를 악마라 불렀습니다. 이제 이 영웅이 우리 군대를 이끌 것입니다."
+
+ # Capital Focus traits
+
+ leader_trait_extra_univ_capital_focus:0 "범용 수도 집중"
+ leader_trait_extra_univ_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그는 수도의 강점이 어떤 필요에도 유연하게 대처할 수 있는 능력에 있다고 봅니다."
+ leader_trait_extra_univ_capital_focus_2:0 "$leader_trait_extra_univ_capital_focus$ II"
+ leader_trait_extra_univ_capital_focus_2_desc:0 "$leader_trait_extra_univ_capital_focus_desc$"
+ leader_trait_extra_univ_capital_focus_3:0 "$leader_trait_extra_univ_capital_focus$ III"
+ leader_trait_extra_univ_capital_focus_3_desc:0 "$leader_trait_extra_univ_capital_focus_desc$"
+
+ leader_trait_extra_extraction_capital_focus:0 "자원 추출 수도 집중"
+ leader_trait_extra_extraction_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그는 수도의 강점이 기본 자원 추출에 집중하는 데 있다고 봅니다."
+ leader_trait_extra_extraction_capital_focus_2:0 "$leader_trait_extra_extraction_capital_focus$ II"
+ leader_trait_extra_extraction_capital_focus_2_desc:0 "$leader_trait_extra_extraction_capital_focus_desc$"
+ leader_trait_extra_extraction_capital_focus_3:0 "$leader_trait_extra_extraction_capital_focus$ III"
+ leader_trait_extra_extraction_capital_focus_3_desc:0 "$leader_trait_extra_extraction_capital_focus_desc$"
+
+ leader_trait_extra_research_capital_focus:0 "연구 수도 집중"
+ leader_trait_extra_research_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그는 수도의 강점이 연구와 발전에 집중하는 데 있다고 봅니다."
+ leader_trait_extra_research_capital_focus_2:0 "$leader_trait_extra_research_capital_focus$ II"
+ leader_trait_extra_research_capital_focus_2_desc:0 "$leader_trait_extra_research_capital_focus_desc$"
+ leader_trait_extra_research_capital_focus_3:0 "$leader_trait_extra_research_capital_focus$ III"
+ leader_trait_extra_research_capital_focus_3_desc:0 "$leader_trait_extra_research_capital_focus_desc$"
+
+ leader_trait_extra_trade_capital_focus:0 "무역 수도 집중"
+ leader_trait_extra_trade_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그들은 상품의 거래 및 분배에 집중하는 것이 수도의 강점이라고 생각합니다."
+ leader_trait_extra_trade_capital_focus_2:0 "$leader_trait_extra_trade_capital_focus$ II"
+ leader_trait_extra_trade_capital_focus_2_desc:0 "$leader_trait_extra_trade_capital_focus_desc$"
+ leader_trait_extra_trade_capital_focus_3:0 "$leader_trait_extra_trade_capital_focus$ III"
+ leader_trait_extra_trade_capital_focus_3_desc:0 "$leader_trait_extra_trade_capital_focus_desc$"
+
+ leader_trait_extra_foundry_capital_focus:0 "합금 수도 집중"
+ leader_trait_extra_foundry_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그들은 국가에 필요한 합금을 공급하는 활발한 주조소에 집중하는 것이 수도의 강점이라고 생각합니다."
+ leader_trait_extra_foundry_capital_focus_2:0 "$leader_trait_extra_foundry_capital_focus$ II"
+ leader_trait_extra_foundry_capital_focus_2_desc:0 "$leader_trait_extra_foundry_capital_focus_desc$"
+ leader_trait_extra_foundry_capital_focus_3:0 "$leader_trait_extra_foundry_capital_focus$ III"
+ leader_trait_extra_foundry_capital_focus_3_desc:0 "$leader_trait_extra_foundry_capital_focus_desc$"
+
+ leader_trait_extra_factory_capital_focus:0 "소비재 수도 집중"
+ leader_trait_extra_factory_capital_focus_desc:0 "이 지도자는 수도 행성을 통치합니다. 그들은 최고급 소비재를 생산하여 시민들이 어떤 상품도 부족하지 않도록 하는 것에 집중하는 것이 수도의 강점이라고 생각합니다."
+ leader_trait_extra_factory_capital_focus_2:0 "$leader_trait_extra_factory_capital_focus$ II"
+ leader_trait_extra_factory_capital_focus_2_desc:0 "$leader_trait_extra_factory_capital_focus_desc$"
+ leader_trait_extra_factory_capital_focus_3:0 "$leader_trait_extra_factory_capital_focus$ III"
+ leader_trait_extra_factory_capital_focus_3_desc:0 "$leader_trait_extra_factory_capital_focus_desc$"
+
+ # Councillor traits
+
+ # Hyperfixated
+
+ leader_trait_extra_hyperfixated:0 "과몰입"
+ leader_trait_extra_hyperfixated_desc:0 "이 지도자는 현재 관심 있는 기술을 연구하는 데 있어 독보적으로 효율적입니다. 하지만 그 과정에서 주목해야 할 다른 잠재적 연구 분야를 보지 못하는 어려움을 겪습니다."
+ leader_trait_extra_hyperfixated_2:0 "$leader_trait_extra_hyperfixated$ II"
+ leader_trait_extra_hyperfixated_2_desc:0 "$leader_trait_extra_hyperfixated_desc$"
+ leader_trait_extra_hyperfixated_3:0 "$leader_trait_extra_hyperfixated$ III"
+ leader_trait_extra_hyperfixated_3_desc:0 "$leader_trait_extra_hyperfixated_desc$"
+
+ #Anti Gravity Researcher
+
+ leader_trait_extra_anti_gravity_researcher:0 "반중력 연구원"
+ leader_trait_extra_anti_gravity_researcher_desc:0 "이 지도자는 우리의 과학 및 관측 기지를 개선할 수단을 제공했습니다. 그의 지식으로 우리는 순식간에 기술을 향상시킬 것입니다!"
+ leader_trait_extra_anti_gravity_researcher_2:0 "$leader_trait_extra_anti_gravity_researcher$ II"
+ leader_trait_extra_anti_gravity_researcher_2_desc:0 "$leader_trait_extra_anti_gravity_researcher_desc$"
+ leader_trait_extra_anti_gravity_researcher_3:0 "$leader_trait_extra_anti_gravity_researcher$ III"
+ leader_trait_extra_anti_gravity_researcher_3_desc:0 "$leader_trait_extra_anti_gravity_researcher_desc$"
+
+ #Lab Outsourcer
+
+ leader_trait_extra_lab_outsourcer:0 "연구소 외주 전문가"
+ leader_trait_extra_lab_outsourcer_desc:0 "이 지도자는 연구 협정의 잠재력이 인력 제공 비용을 다른 제국에 전가하는 능력에 있음을 깨달았습니다."
+ leader_trait_extra_lab_outsourcer_2:0 "$leader_trait_extra_lab_outsourcer$ II"
+ leader_trait_extra_lab_outsourcer_2_desc:0 "$leader_trait_extra_lab_outsourcer_desc$"
+ leader_trait_extra_lab_outsourcer_3:0 "$leader_trait_extra_lab_outsourcer$ III"
+ leader_trait_extra_lab_outsourcer_3_desc:0 "$leader_trait_extra_lab_outsourcer_desc$"
+
+ #Swarm Tactics
+
+ leader_trait_extra_swarm_tactics:0 "무리 전술"
+ leader_trait_extra_swarm_tactics_desc:0 "이 지도자는 다소 약하더라도 수많은 함선의 힘을 믿습니다. 순수한 수적 우위로 적을 압도할 것입니다."
+ leader_trait_extra_swarm_tactics_2:0 "$leader_trait_extra_swarm_tactics$ II"
+ leader_trait_extra_swarm_tactics_2_desc:0 "$leader_trait_extra_swarm_tactics_desc$"
+ leader_trait_extra_swarm_tactics_3:0 "$leader_trait_extra_swarm_tactics$ III"
+ leader_trait_extra_swarm_tactics_3_desc:0 "$leader_trait_extra_swarm_tactics_desc$"
+
+ #Lone Wolf
+
+ leader_trait_extra_lone_wolf:0 "고독한 늑대"
+ leader_trait_extra_lone_wolf_desc:0 "이 지도자는 단독으로 움직이는 강력한 함선의 힘을 믿습니다. 순수한 힘으로 우리의 발전된 함대가 적을 압도할 것입니다."
+ leader_trait_extra_lone_wolf_2:0 "$leader_trait_extra_lone_wolf$ II"
+ leader_trait_extra_lone_wolf_2_desc:0 "$leader_trait_extra_lone_wolf_desc$"
+ leader_trait_extra_lone_wolf_3:0 "$leader_trait_extra_lone_wolf$ III"
+ leader_trait_extra_lone_wolf_3_desc:0 "$leader_trait_extra_lone_wolf_desc$"
+
+ #Doctrine of fear
+
+ leader_trait_extra_tarkin:0 "공포의 교리"
+ leader_trait_extra_tarkin_desc:0 "이 지도자는 섬멸, 대량 학살, 그리고 압도적인 힘을 통해 어떤 적도 감히 우리에게 도전하지 못할 것이라고 믿습니다. 그들은 순수한 공포를 통해 질서를 가져올 단일 정거장 프로젝트를 구상합니다."
+ leader_trait_extra_tarkin_2:0 "$leader_trait_extra_tarkin$ II"
+ leader_trait_extra_tarkin_2_desc:0 "$leader_trait_extra_tarkin_desc$"
+ leader_trait_extra_tarkin_3:0 "$leader_trait_extra_tarkin$ III"
+ leader_trait_extra_tarkin_3_desc:0 "$leader_trait_extra_tarkin_desc$"
+
+ # Space exploitation
+
+ leader_trait_extra_space_exploitation:0 "우주 산업주의자"
+ leader_trait_extra_space_exploitation_desc:0 "이 지도자는 헤아릴 수 없는 항성계 천체의 부를 개발하는 것에서 산업의 미래를 봅니다. 그들은 무중력 자원 수집 시설을 개선하는 데 상당한 주의를 기울입니다."
+ leader_trait_extra_space_exploitation_2:0 "$leader_trait_extra_space_exploitation$ II"
+ leader_trait_extra_space_exploitation_2_desc:0 "$leader_trait_extra_space_exploitation_desc$"
+ leader_trait_extra_space_exploitation_3:0 "$leader_trait_extra_space_exploitation$ III"
+ leader_trait_extra_space_exploitation_3_desc:0 "$leader_trait_extra_space_exploitation_desc$"
+
+ # Planet exploitation
+
+ leader_trait_extra_planet_exploitation:0 "행성 산업주의자"
+ leader_trait_extra_planet_exploitation_desc:0 "이 지도자는 행성 전역의 자원 수집 노력을 창출하는 것에서 산업의 미래를 봅니다. 그들에게는 거주 시설이 무중력 시설보다 훨씬 우수합니다."
+ leader_trait_extra_planet_exploitation_2:0 "$leader_trait_extra_planet_exploitation$ II"
+ leader_trait_extra_planet_exploitation_2_desc:0 "$leader_trait_extra_planet_exploitation_desc$"
+ leader_trait_extra_planet_exploitation_3:0 "$leader_trait_extra_planet_exploitation$ III"
+ leader_trait_extra_planet_exploitation_3_desc:0 "$leader_trait_extra_planet_exploitation_desc$"
+
+ # Ambitious constructor
+
+ leader_trait_extra_ambitious_undertaking:0 "야심찬 건설자"
+ leader_trait_extra_ambitious_undertaking_desc:0 "이 지도자는 거대 시설 건설의 위임과 계획 수립에 능숙한 전문가입니다. 그들에게는 맡을 수 없을 만큼 거대한 프로젝트란 존재하지 않습니다."
+ leader_trait_extra_ambitious_undertaking_2:0 "$leader_trait_extra_ambitious_undertaking$ II"
+ leader_trait_extra_ambitious_undertaking_2_desc:0 "$leader_trait_extra_ambitious_undertaking_desc$"
+ leader_trait_extra_ambitious_undertaking_3:0 "$leader_trait_extra_ambitious_undertaking$ III"
+ leader_trait_extra_ambitious_undertaking_3_desc:0 "$leader_trait_extra_ambitious_undertaking_desc$"
+
+ # Routine inspector
+
+ leader_trait_extra_routine_inspector:0 "정기 감사관"
+ leader_trait_extra_routine_inspector_desc:0 "이 지도자는 통일된 기준과 절차를 중시합니다. 시설에 대한 정기적인 감사를 통해 모든 것이 원활하게 운영되고 규정이 준수되도록 보장합니다."
+ leader_trait_extra_routine_inspector_2:0 "$leader_trait_extra_routine_inspector$ II"
+ leader_trait_extra_routine_inspector_2_desc:0 "$leader_trait_extra_routine_inspector_desc$"
+ leader_trait_extra_routine_inspector_3:0 "$leader_trait_extra_routine_inspector$ III"
+ leader_trait_extra_routine_inspector_3_desc:0 "$leader_trait_extra_routine_inspector_desc$"
+
+ # Private liaison?
+
+ leader_trait_extra_no_inspection:0 "민간 연락 장교"
+ leader_trait_extra_no_inspection_desc:0 "이 지도자는 중앙 지도부와 생산 시설의 분리를 굳게 신봉합니다. 그들에게 잦은 감사는 불필요한 업무량을 초래할 뿐입니다. 효율성을 위한 해결책은 시설이 최선을 다할 것이라고 믿는 것입니다."
+ leader_trait_extra_no_inspection_2:0 "$leader_trait_extra_no_inspection$ II"
+ leader_trait_extra_no_inspection_2_desc:0 "$leader_trait_extra_no_inspection_desc$"
+ leader_trait_extra_no_inspection_3:0 "$leader_trait_extra_no_inspection$ III"
+ leader_trait_extra_no_inspection_3_desc:0 "$leader_trait_extra_no_inspection_desc$"
+
+ # Public relations expert
+
+ leader_trait_extra_public_relations:0 "홍보 전문가"
+ leader_trait_extra_public_relations_desc:0 "이 지도자는 자신에게 유리한 방향으로 소통을 이끄는 방법을 알고 있습니다. 그의 지도가 있다면 우리의 제안은 매혹적이거나, 혹은 파괴적일 수 있습니다... 필요한 대로 말이죠."
+ leader_trait_extra_public_relations_2:0 "$leader_trait_extra_public_relations$ II"
+ leader_trait_extra_public_relations_2_desc:0 "$leader_trait_extra_public_relations_desc$"
+ leader_trait_extra_public_relations_3:0 "$leader_trait_extra_public_relations$ III"
+ leader_trait_extra_public_relations_3_desc:0 "$leader_trait_extra_public_relations_desc$"
+
+ # Delegate trainer
+
+ leader_trait_extra_delegate_trainer:0 "대표단 훈련관"
+ leader_trait_extra_delegate_trainer_desc:0 "이 지도자는 우리 대표단의 교육을 담당합니다. 우리가 성간의 의지를 우리의 야망에 굴복시킴에 따라, 은하 공동체는 우리 대표단의 말 한마디 한마디에 집중하게 될 것입니다."
+ leader_trait_extra_delegate_trainer_2:0 "$leader_trait_extra_delegate_trainer$ II"
+ leader_trait_extra_delegate_trainer_2_desc:0 "$leader_trait_extra_delegate_trainer_desc$"
+ leader_trait_extra_delegate_trainer_3:0 "$leader_trait_extra_delegate_trainer$ III"
+ leader_trait_extra_delegate_trainer_3_desc:0 "$leader_trait_extra_delegate_trainer_desc$"
+
+ # Other traits
+
+ # Storm shelterer
+
+ leader_trait_extra_storm_shelter:0 "폭풍 대피 전문가"
+ leader_trait_extra_storm_shelter_desc:0 "이 지도자는 우주 폭풍이 일으킬 수 있는 모든 파괴로부터 이 행성을 보호하는 데 열성적입니다. 그의 대비책은 폭풍으로 인한 피해를 제한합니다."
+ leader_trait_extra_storm_shelter_2:0 "$leader_trait_extra_storm_shelter$ II"
+ leader_trait_extra_storm_shelter_2_desc:0 "$leader_trait_extra_storm_shelter_desc$"
+ leader_trait_extra_storm_shelter_3:0 "$leader_trait_extra_storm_shelter$ III"
+ leader_trait_extra_storm_shelter_3_desc:0 "$leader_trait_extra_storm_shelter_desc$"
+
+ # Formal surveyor
+
+ leader_trait_extra_formal_surveyor:0 "정규 탐사원"
+ leader_trait_extra_formal_surveyor_desc:0 "이 지도자는 미지의 항성계를 분석할 때 교과서적인 방식을 따르는 것에 자부심을 느낍니다. 이 접근법은 평화 시기에 설계되었으므로, 은신은 고려되지 않은 요소였습니다."
+ leader_trait_extra_formal_surveyor_2:0 "$leader_trait_extra_formal_surveyor$ II"
+ leader_trait_extra_formal_surveyor_2_desc:0 "$leader_trait_extra_formal_surveyor_desc$"
+ leader_trait_extra_formal_surveyor_3:0 "$leader_trait_extra_formal_surveyor$ III"
+ leader_trait_extra_formal_surveyor_3_desc:0 "$leader_trait_extra_formal_surveyor_desc$"
+
+
+
+ # Compat Trait with other mods
+
+ # ACOT
+ # Dark Energy Production Focus
+
+ leader_trait_ELT_acot_delta_focus:0 "암흑 에너지 생산 집중"
+ leader_trait_ELT_acot_delta_focus_desc:0 "이 지도자는 시설에서 제공할 수 있는 암흑 에너지 및 물질의 산출량을 증가시키는 새로운 공식을 발견했습니다. 당연하게도, 이들은 자신의 행성 밖으로는 이 공식을 공유하지 않습니다."
+ leader_trait_ELT_acot_delta_focus_2:0 "$leader_trait_ELT_acot_delta_focus$ II"
+ leader_trait_ELT_acot_delta_focus_2_desc:0 "$leader_trait_ELT_acot_delta_focus_desc$"
+ leader_trait_ELT_acot_delta_focus_3:0 "$leader_trait_ELT_acot_delta_focus$ III"
+ leader_trait_ELT_acot_delta_focus_3_desc:0 "$leader_trait_ELT_acot_delta_focus_desc$"
+ 
+ # Giga
+ # Supertensile Production Focus
+
+ leader_trait_ELT_giga_mega_overseer:0 "초인장성 생산 집중"
+ leader_trait_ELT_giga_mega_overseer_desc:0 "이 지도자는 새로운 거대 구조물 건설을 촉진하기 위한 행성 전반의 노력을 감독합니다."
+ leader_trait_ELT_giga_mega_overseer_2:0 "$leader_trait_ELT_giga_mega_overseer$ II"
+ leader_trait_ELT_giga_mega_overseer_2_desc:0 "$leader_trait_ELT_giga_mega_overseer_desc$"
+ leader_trait_ELT_giga_mega_overseer_3:0 "$leader_trait_ELT_giga_mega_overseer$ III"
+ leader_trait_ELT_giga_mega_overseer_3_desc:0 "$leader_trait_ELT_giga_mega_overseer_desc$"
+
+ # Modifiers 
+
+ mod_planet_researchers_astral_threads_produces_add: "£job_researcher£ $job_researcher$ [GetResearcherPlural]으로부터 £astral_threads£ 아스트랄 실타래"
+ mod_planet_jobs_astral_threads_produces_mult: "£pops£ 직업으로부터 £astral_threads£ 아스트랄 실타래"
+ mod_planet_soldiers_physics_research_produces_add: "£job_soldier£ [GetSoldierPlural]으로부터 £physics_research£ $physics_research$"
+ mod_planet_soldiers_society_research_produces_add: "£job_soldier£ [GetSoldierPlural]으로부터 £society£ $society_research$"
+ mod_shipclass_military_build_cost_mult: "군용 함선 건조 비용"
+ mod_shipclass_military_damage_mult: "군용 함선 피해량"
+ mod_shipsize_colossus_hull_mult: "콜로서스 선체:"
+ mod_shipsize_juggernaut_hull_mult: "저거노트 선체:"
+ mod_job_patrol_drone_per_crime:1 "행성 £crime£ §Y$PLANET_CRIME_NO_HAPPINESS_TITLE$§! $VALUE$당 §R+1§! $job_patrol_drone$ 직업"
+ mod_job_patrol_drone_per_crime_short:1 "\n£crime£ $VALUE$당 §R+1§! £mod_job_patrol_drone_per_crime£"
+ mod_job_enforcer_per_crime:1 "행성 £crime£ §Y범죄§! $VALUE$당 §R+1§! $job_enforcer$ 직업"
+ mod_job_enforcer_per_crime_short:1 "\n£crime£ $VALUE$당 §R+1§! £mod_job_enforcer_per_crime£"
+ mod_planet_jobs_sr_dark_matter_produces_mult: "£sr_dark_matter£ £job£직업 암흑 물질 생산량: §G$VALUE$§!"
+ custom_not_capital: "$NEW_LINE$§T이 특성의 효과는 이 지도자가 제국의 §Y수도 행성§T을 §P통치§T할 때만 적용됩니다.§!"
+ custom_one_gov_capital: "$only_one_governor_focus$\n$custom_not_capital$"
+ custom_lab_outsourcer_1: "$EMPIRE_EFFECTS_TXT$$TABBED_NEW_LINE$§T연구 속도: §G+5%$TABBED_NEW_LINE$§T$mod_planet_researchers_upkeep_mult$ §G-5%§T 각각에 대해 (최대 5개)$TABBED_NEW_LINE$연구 협정.§!"
+ custom_lab_outsourcer_2: "$EMPIRE_EFFECTS_TXT$$TABBED_NEW_LINE$§T연구 속도: §G+10%$TABBED_NEW_LINE$§T$mod_planet_researchers_upkeep_mult$ §G-10%§T 각각에 대해 (최대 5개)$TABBED_NEW_LINE$연구 협정.§!"
+ custom_lab_outsourcer_3: "$EMPIRE_EFFECTS_TXT$$TABBED_NEW_LINE$§T연구 속도: §G+15%$TABBED_NEW_LINE$§T$mod_planet_researchers_upkeep_mult$ §G-15%§T 각각에 대해 (최대 5개)$TABBED_NEW_LINE$연구 협정.§!"
+ custom_acot_delta_1: "$PLANET_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+5%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+5%$DOUBLE_NEW_LINE$$SECTOR_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+2.5%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+2.5%"
+ custom_acot_delta_2: "$PLANET_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+10%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+10%$DOUBLE_NEW_LINE$$SECTOR_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+5%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+5%"
+ custom_acot_delta_3: "$PLANET_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+15%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+15%$DOUBLE_NEW_LINE$$SECTOR_EFFECTS_TXT$$TABBED_NEW_LINE$£sr_dark_matter£ §T£job£직업 암흑 물질 생산량: §G+7.5%$TABBED_NEW_LINE$£acot_sr_dark_energy£ §T£job£직업 암흑 에너지 생산량: §G+7.5%"
+
+

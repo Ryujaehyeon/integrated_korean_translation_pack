@@ -1,0 +1,9 @@
+﻿l_korean:
+ mem_molten_core_category:0 "화염 바다"
+ mem_molten_core_category_desc:0 "대부분의 용융 세계와 마찬가지로 §Y[Root.GetName]§!는 용암의 흐름과 바다로 덮여 있습니다. 그러나 이 특정 행성에는 분명히 이상한 점이 있으며, 이는 궤도에서조차도 확인할 수 있습니다. 평균적인 대륙 행성과 마찬가지로, 이 행성의 표면 약 70%가 액체로 덮여 있지만, 모든 예측은 이 [Root.GetPlanetMoon]의 태양이 표면을 이 상태로 유지할 만큼 충분한 열을 제공하지 않는다고 말하고 있습니다."
+ mem_molten_core.1.name:0 "노출된 핵"
+ mem_molten_core.1.desc:0 "용융 행성이 액체 외핵에서 마그마가 표면에 도달할 수 있는 많은 출구를 갖는 것은 일반적이지만, §Y[From.GetName]§!는 이를 한 단계 끌어올린 것 같습니다. 행성 표면의 거의 40%가 노출된 외핵으로, 이는 연구를 촉발한 광대한 바다를 형성했습니다. 탐사선은 행성의 중심을 탐험하기 위해 쉽게 발사될 수 있으며, 이는 다른 세계에서 비용이 많이 드는 채굴 작업이 필요할 수 있는 행성 지질에 대한 새로운 통찰을 제공합니다. 이로 인해 §Y[From.GetName]§!는 연구 노력에 완벽합니다."
+ mem_molten_core.1.a:0 "좋은 소식이군."
+ mem_molten_core.99.name:0 "굳어진 바다"
+ mem_molten_core.99.desc:0 "§Y[This.leader.GetName]§!의 보고서에 따르면 §Y[From.From.GetName]§!의 용암 바다에서 그들의 존재는 우연에 불과하다고 합니다. 이미 표면이 식기 시작했으며, 몇 년 내에 [From.From.GetPlanetMoon]의 용암 대 육지 비율은 용암 행성에 일반적인 수준이 될 것으로 예상됩니다."
+ mem_molten_core.99.a:0 "좋아."

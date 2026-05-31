@@ -1,0 +1,9 @@
+﻿l_korean:
+ mem_comet_lost.1.name:0 "잃어버린 혜성"
+ mem_comet_lost.1.desc:0 "수천 년 동안 [Capital_Scope.Solar_System.GetName] 항성계 주위를 돌며, [Capital_Scope.GetName]의 하늘에서 [root.GetSpeciesAdj] 역사 내내 여러 번 목격되었던 혜성이 그 복잡한 궤도를 마치고 영원히 항성계의 경계를 떠났습니다. \n\n현재 이 혜성은 우리의 감지기 범위를 넘어섰으며, 수천 년 동안 다시 탐사된 우주로 돌아올 것으로 예상되지 않습니다."
+ mem_comet_lost.1.desc.alt:0 "[the_guy.GetName]의 혜성은 수천 년 동안 [Capital_Scope.Solar_System.GetName] 항성계에서 돌고 있었으며, [root.GetSpeciesAdj] 역사 동안 [Capital_Scope.GetName]의 하늘에서 여러 번 목격되었습니다. 그러나 우리의 천문학자들은 그것이 매우 복잡한 궤도를 마치고 시스템의 경계를 영원히 떠났다고 알려줍니다. \n\n현재 그것은 우리의 감지기 범위를 넘어 있으며, 수천 년 동안 다시 탐색된 공간으로 돌아올 것으로 예상되지 않습니다."
+ mem_comet_lost.1.a:0 "혜성이 그리울 거야..."
+ mem_comet_lost.1.b:0 "Noted."
+ mem_comet_lost.1.c:0 "이제 그것이 일부 외계 세계에 기쁨을 가져다주길 바랍니다."
+ mem_comet_lost.1.d:0 "우리는 혜성을 따라 머나먼 별로 갈 것이다!"
+ mem_comet_lost.1.e:0 "궤도 역학 계산은 정확합니다."

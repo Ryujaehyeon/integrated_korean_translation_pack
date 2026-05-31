@@ -1,0 +1,8 @@
+﻿l_korean:
+ mem_ancient_factory_category:0 "특이한 구조물"
+ mem_ancient_factory_category_desc:0 "특이한 형태로 배열된 암석 무더기들이 [From.GetName]의 적도 근처에서 발견되었습니다."
+ mem_ancient_factory.10.name:0 "버려진 공장"
+ mem_ancient_factory.10.desc:0 "과학 담당관 [Root.leader.GetName]의 조사에 따르면, [From.GetName]의 이상한 암석 형성은 실제로 암석 형성이 아닙니다. 그것들은 사실, 알려지지 않은 제작자에 의해 건설된 일종의 자동화된 메가 공장이며, 낡은 상태로 보아 오래 전에 버려진 것으로 판단됩니다. 우리의 필요에 맞게 재활용하기에는 너무 손상되었지만, 이 복합체에 대한 추가 연구는 우리의 공장과 자동화 시스템에 유용할 수 있습니다."
+ mem_ancient_factory.20.name:0 "특이한 구조물"
+ mem_ancient_factory.20.desc:0 "[From.From.GetName]의 특이한 암석 배열은 그냥...암석 배열입니다. 일종의 독립적인 불모지입니다만, 우리 스캐너에 하나의 독립적인 '지역'으로 등록하기에는 너무 작은 구역입니다."
+ mem_ancient_factory.20.a:0 "좋군."

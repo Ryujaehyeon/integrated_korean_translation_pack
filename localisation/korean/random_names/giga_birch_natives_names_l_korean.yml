@@ -1,0 +1,13 @@
+﻿l_korean:
+ format.giga_birch_democratic:0 "<민주적_유전자> <거대자작나무_원주율_이름>"
+ format.giga_birch_oligarchic:0 "<올리가르히크_젠> <기가_자작나무_토착민_이름>"
+ format.giga_birch_dictatorial:0 "<독재적_유전자> <기가_자작나무_원주율_이름>"
+ format.giga_birch_imperial:0 "<제국_유전자> <기가 자작나무 원주율 이름>"
+ format.giga_birch_democratic_spiritualist:0 "<민주적_영적> <거대자작나무_토착민_이름>"
+ format.giga_birch_oligarchic_spiritualist:0 "<올리가르히크_영성주의자> <기가_자작나무_토착민_이름>"
+ format.giga_birch_dictatorial_spiritualist:0 "<독재적_정신주의자> <거대_자작나무_원주율_이름>"
+ format.giga_birch_imperial_spiritualist:0 "<제국_정신주의자> <거대_자작나무_원주율_이름>"
+ giga_birch_ofTheSpires:0 "탑의 자작나무"
+ giga_birch_ofTheTower:0 "탑의"
+ giga_birch_ofPillars:0 "기둥의 거목"
+ giga_birch_ofSpires:0 "탑의 나무"

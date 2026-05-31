@@ -1,0 +1,6 @@
+﻿l_korean:
+ job_titan_hunter_plural_with_icon:0 "£job_hunter_gatherer£ $job_titan_hunter_plural$"
+ farmer_is_titan_hunter_tt:0 "£job_farmer£ $job_farmer_plural$이(가) $job_farmer_plural_with_icon$(으)로 전환됩니다"
+ leader_trait_ambassador_favor_maker_effect:0 "$t$- §Y관계 개선§! 중인 사절은 매월 각각 §G0.25%§! 확률로 §Y호의§!를 획득합니다"
+ leader_trait_ambassador_favor_maker_2_effect:0 "$t$- §Y관계 개선§! 중인 사절은 매월 각각 §G0.50%§! 확률로 §Y호의§!를 획득합니다"
+ leader_trait_ambassador_favor_maker_3_effect:0 "$t$- §Y관계 개선§! 중인 사절은 매월 각각 §G1%§! 확률로 §Y호의§!를 획득합니다"

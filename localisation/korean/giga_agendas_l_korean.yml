@@ -1,0 +1,5 @@
+﻿l_korean:
+ council_agenda_agenda_giga_macro_name:0 "킬로구조 숙련"
+ council_agenda_agenda_giga_macro_desc:0 "$agenda_giga_macro_finish_desc$"
+ agenda_giga_macro_finish:0 "$agenda_giga_macro_name$ 안건"
+ agenda_giga_macro_finish_desc:0 "상상할 수 있다면, 만들 수 있습니다."

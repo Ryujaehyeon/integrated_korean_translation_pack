@@ -1,0 +1,9 @@
+﻿l_korean:
+ feature_bulk_matter:0 "§H기능 잠금 해제:§! 행성 해체"
+ feature_bulk_matter_desc:0 "행성 전체를 해체하는 ['concept_decisions']을 잠금 해제하여, 가장 거대한 거대구조물 건설에 필요한 대규모 자원인 £giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!을 얻을 수 있게 합니다."
+ giga_tech_ring_world_swap:0 "$utopia.2000.name$"
+ giga_tech_ring_world_swap_desc:0 "$tech_ring_world_desc$"
+ giga_tech_ring_world_swap_no_habitables:0 "대규모 자가 복제 해체 군집"
+ giga_tech_ring_world_swap_no_habitables_desc:0 "행성은 매우, 매우 큽니다.\n이처럼 극단적인 규모에서 재료를 효과적으로 수집하려면 특수 채굴 드론 군집을 위한 새로운 제어 체계를 개발해야 합니다."
+ giga_tech_ring_world_swap_no_habitables_bio:0 "인공 해체 생태계"
+ giga_tech_ring_world_swap_no_habitables_bio_desc:0 "충분히 끈질긴 뿌리는 가장 단단한 기반암도 꿰뚫을 수 있습니다."

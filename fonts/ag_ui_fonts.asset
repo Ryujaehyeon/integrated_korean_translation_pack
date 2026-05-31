@@ -1,0 +1,4 @@
+font = {
+	name = "ag_ui_fonts"
+	fontstyle = { style = regular file = "gfx/fonts/MaruBuri-Bold.ttf" }
+}

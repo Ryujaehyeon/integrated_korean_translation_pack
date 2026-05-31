@@ -1,0 +1,8 @@
+﻿l_korean:
+ policy_merger_fake_policy:0 ""
+ policy_merger_fake_policy_desc:0 ""
+ placeholder_ship:0 ""
+ placeholder_ship_plural:0 ""
+ starbase_placeholder:0 ""
+ starbase_placeholder_plural:0 ""
+ merg_forbidden_target:0 "£trigger_no£ §R이 대상은 $colossus$의 목표로 지정할 수 없습니다§!"

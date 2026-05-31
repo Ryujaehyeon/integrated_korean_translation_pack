@@ -1,0 +1,9 @@
+﻿l_korean:
+ mem_rogue_planet_anomaly_category:0 "예측과 다른 결과"
+ mem_rogue_planet_anomaly_category_desc:0 "위성의 구성 성분은 [Solar_System.GetName] 성계에 대한 우리의 예측과 일치하지 않습니다."
+ mem_flower_anomaly_category:0 "점묘"
+ mem_flower_anomaly_category_desc:0 "소행성에 대한 시각적 스캔 결과, 비정상적인 색상 패턴이 드러났습니다. 하나의 소행성 전체 표면이 미세한 것부터 수십 미터에 이르는 다채로운 반점으로 덮여 있습니다."
+ mem_anomalies_june_19.1.name:0 "사로잡힌 위성"
+ mem_anomalies_june_19.1.desc:0 "[Root.GetName]는 달 §Y[From.GetName]§!이 실제로 이 항성계의 것이 아님을 확인합니다. \n\n어떤 힘이 이 달을 고향 항성계에서 은하를 가로질러 이동시킨 것처럼 보이며, 수천 년의 방랑 끝에 마침내 §Y[the_gas_giant.GetName]§!의 중력에 포획되었습니다."
+ mem_anomalies_june_19.2.name:0 "공허의 꽃"
+ mem_anomalies_june_19.2.desc:0 "[Root.GetName]는 이전에 감지된 다채로운 반점이 사실 §Y[From.GetName]§! 내부에서 자생하는 방대하고 복잡한 유기체의 확장임을 보고합니다. \n\n이 반점은 실제로 바위 내부에 뿌리내린 방대한 시스템을 영양 공급하기 위해 다양한 형태의 우주 및 태양 복사를 흡수하는 외부 기관으로, 각각은 꽃잎처럼 배열된 작은 유기체 판으로 구성된 포물체 안테나로 기능합니다."

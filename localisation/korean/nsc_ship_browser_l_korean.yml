@@ -1,0 +1,7 @@
+﻿l_korean:
+ SHIP_GRAPHICS_STRIKECRUISER_DESC:0 "타격 순양함은 동맹함이 도착하여 임무를 완수할 수 있을 때까지 적 함대를 잡고 그 위치를 유지하도록 설계되었습니다."
+ SHIP_GRAPHICS_EXPLORATIONSHIP_DESC:0 "대담하게 아무도 가지 않은 곳을 이동하면서도 적대적인 세력의 공격을 견딜 수 있도록 설계된 전투 가능한 과학선입니다."
+ SHIP_GRAPHICS_BATTLECRUISER_DESC:0 "최전선의 전투 임무를 위해 설계된 훨씬 더 크고 발전된 버전의 순양함입니다."
+ SHIP_GRAPHICS_CARRIER_DESC:0 "대량의 타격기를 실을 수 있는 중전함입니다. 필요한 격납고 공간 때문에, 이 함선은 직접적인 공격 능력이 거의 없어 다른 전투함들의 호위가 필요합니다."
+ SHIP_GRAPHICS_DREADNOUGHT_DESC:0 "더 크고 더 발전된 형태의 전함으로서, 모든 제국의 주요 최전방 군함이 되도록 설계되었습니다."
+ SHIP_GRAPHICS_FLAGSHIP_DESC:0 "믿을 수 없는 공격 능력을 갖춘 거대한 지휘통제선은 해군 함대의 자부심이자 긍지입니다."
