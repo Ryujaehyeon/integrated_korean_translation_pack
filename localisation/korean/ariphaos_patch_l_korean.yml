@@ -60,3 +60,4 @@
  distar.50730.b:0 "은하 전체의 손실이군."
  ARIPHAOS_PATCH_REQUIRES_THINKING:0 "사이오닉이 작동하려면 사고가 필요합니다."
  ENTRY_BYPASS_SHROUD_TUNNEL:0 "$SHROUD_TUNNEL_GALACTIC$"
+ ring_world:0 "링 월드"
