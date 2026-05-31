@@ -59,3 +59,4 @@
  distar.50730.desc:0 "수수께끼의 저장고가 은하를 떠난 것이 확인되었습니다. 아마도 다른 곳에서 임무를 계속하려는 듯합니다."
  distar.50730.b:0 "은하 전체의 손실이군."
  ARIPHAOS_PATCH_REQUIRES_THINKING:0 "사이오닉이 작동하려면 사고가 필요합니다."
+ ENTRY_BYPASS_SHROUD_TUNNEL:0 "$SHROUD_TUNNEL_GALACTIC$"
