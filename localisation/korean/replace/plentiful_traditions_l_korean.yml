@@ -453,7 +453,7 @@
  tr_plentiful_experimentalism_finish:0 "실험주의 전통 완료"
  tr_plentiful_experimentalism_finish_desc:0 "모든 $tr_plentiful_experimentalism_adopt$를 채택하면 우리의 §Y과학자 리더§!가 §Y레벨 업§! 시마다 월 수입의 §Y1§! 배에 해당하는 추가 £energy£ §Y에너지§!를 얻습니다."
  tr_plentiful_experimentalism_1:0 "지식의 관리자"
- tr_plentiful_experimentalism_1_desc:0 "§H건물 잠금해제:§! £building£$building_plentiful_traditions_experimental_weapons_facility$, 행성의  £physics£ · §Y물리학§! 산출량을 증가시키는 행성 고유 건물입니다. \n\n£physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. \n£engineering£ §M$tech_mine_rare_crystals$§! 기술을 요구합니다."
+ tr_plentiful_experimentalism_1_desc:0 "§H건물 잠금해제:§! £building $building_plentiful_traditions_experimental_weapons_facility$, 행성의 £physics£ §Y물리학§! 산출량을 증가시키는 행성 고유 건물입니다. \n\n£physics£ §M$tech_basic_science_lab_3$§! 기술을 요구합니다. \n£engineering£ §M$tech_mine_rare_crystals$§! 기술을 요구합니다."
  tr_plentiful_experimentalism_1_delayed:0 "우리 제국은 알려진 모든 사실에 대한 기록과 분석이 필요합니다."
  tr_plentiful_experimentalism_2:0 "시행착오"
  tr_plentiful_experimentalism_2_desc:0 "우리의 §Y과학자§!가 §Y레벨 업§!을 할 때 우리의 §Y$MOD_LEADER_SPECIES_EXP_GAIN$§!가 §Y10§!년간 §G+10%§! 증가합니다. §Y$MOD_LEADER_SKILL_LEVELS$§! 가 §G+1§! 증가합니다."

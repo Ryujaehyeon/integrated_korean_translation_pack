@@ -127,7 +127,7 @@
  tradition_est_chivalry:0 "기사도"
  tradition_est_chivalry_desc:0 "우리의 굳건한 이상은 결코 부러지지 않습니다. 어떠한 일이 일어날지라도, 우리는 흔들리지 않아야 합니다."
  tr_est_chivalry_adopt:0 "기사도 전통"
- tr_est_chivalry_adopt_desc:0 "모든 지도자는 §Y$leader_trait_commander_est_chivalry$§! 특성을 얻으며, 이는 §G소소한 보너스를 제공합니다§!. §Y장군§!과 §Y제독§!이 전투에서 승리할 경우 §Y$leader_trait_commander_est_chivalry_hero$§! 특성을 얻을 확률이 있으며, 이는 §G상당한 보너스를 제공합니다§! (§H획득한 특성은 전투 결과에 따라 달라집니다§!).\"   # TODO: 특정 이점을 위한 사용자 정의 툴팁/게임 개념을 추가할까요, 아니면 신비롭게 유지할까요?"
+ tr_est_chivalry_adopt_desc:0 "모든 지도자는 §Y$leader_trait_commander_est_chivalry$§! 특성을 얻으며, 이는 §G소소한 보너스를 제공합니다§!. §Y장군§!과 §Y제독§!이 전투에서 승리할 경우 §Y$leader_trait_commander_est_chivalry_hero$§! 특성을 얻을 확률이 있으며, 이는 §G상당한 보너스를 제공합니다§! (§H획득한 특성은 전투 결과에 따라 달라집니다§!)."
  tr_est_chivalry_1:0 "교전 규칙"
  tr_est_chivalry_1_delayed:0 "전투함들은 교전상황 시 엄격한 행동강령을 따라야 합니다. 이 기사도의 규칙을 따르지 않는 제독은 경멸의 대상이 됩니다."
  tr_est_chivalry_2:0 "명예"

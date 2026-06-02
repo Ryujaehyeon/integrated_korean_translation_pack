@@ -67,6 +67,7 @@
  ap_esap_ct1_infrastructure:0 "국가 건설자"
  ap_esap_ct1_infrastructure_desc:0 "우리가 별들 사이로 퍼져나가면서 우리 제국의 행성들에서는 문명이 폭발적으로 발전했습니다."
  ap_esap_ct1_infrastructure_tooltip:0 "모든 지구를 개발한 행성의 §Y$MOD_PLANET_HOUSING_MULT$§!가 §G15%§! 증가합니다."
+ ap_esap_ct1_infrastructure_tooltip_endgame:0 "§H종반 게임 시작 후§!: §G+1§! §Y$MOD_PLANET_BUILDING_CAPACITY_ADD$§!"
  ap_esap_ct1_infrastructure_req_1:0 "$TRIGGER_FAIL$ §Y수도§!에 §Y10§!개 이상의 £building£ §Y건물§!을 건설해야합니다."
  ap_esap_ct1_infrastructure_req_2:0 "$TRIGGER_FAIL$ §Y$ap_esap_ct3_not_infrastructure$§! 승천 특전을 보유하면 활성화 할 수 없습니다."
  ap_esap_ct2_war_expansion:0 "정복의 길"

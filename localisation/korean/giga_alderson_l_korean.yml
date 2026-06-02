@@ -282,7 +282,7 @@
  d_alderson_ruined_transport:0 "수리할 수 없는 하이퍼바인"
  d_alderson_ruined_transport_desc:0 "알더슨을 정리하는 것은 거대한 규모의 작업이지만, 우리는 어딘가에서 시작해야 합니다."
  d_alderson_ruined_housing:0 "거대한 슬럼가"
- d_alderson_ruined_housing_desc:0 "$d_alderson_ruined_district_desc$\" #TODO 모든 고유 설명 추가 필요"
+ d_alderson_ruined_housing_desc:0 "$d_alderson_ruined_district_desc$"
  d_alderson_ruined_spaceport:0 "부패한 우주항구"
  d_alderson_ruined_spaceport_desc:0 "$d_alderson_ruined_district_desc$"
  d_alderson_ruined_shield:0 "무용한 방패 배열"

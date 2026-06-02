@@ -382,7 +382,7 @@
  giga_tech_eawaf_psifusion_desc:0 "헬리오스의 지옥 같은 핵의 신비로운 작용을 통제된 환경에서 산업 규모로 복제함으로써 막대한 에너지 생산과 중원소의 용이한 생산이 가능해집니다."
  giga_tech_eawaf_weapons_repeatable:0 "초전도 마법 무기"
  giga_tech_eawaf_weapons_repeatable_desc:0 "기술적 무기의 불가사의한 특성은 본질적으로 그 잠재력에 대한 상한선이 없음을 의미합니다. 더 많은 에너지를 주입하고 그 에너지를 전달할 더 많은 수정체가 함께 제공되는 한, 그들은 점점 더 강력해질 수 있습니다."
- giga_tech_eawaf_weapons_repeatable_title:0 "['concept_giga_eawaf_thaumaturgic_weapons', Thaumaturgic Weapons] 피해: §G+10%§!\n['concept_giga_eawaf_thaumaturgic_weapons', Thaumaturgic Weapons] 유지비: §R+5%§!" #TODO 로컬라이징과 메커니즘이 동기화되지 않도록: §G+$@giga_eawaf_weapons_repeatable_damage|%0$%§!\n타우마투르기 무기를 장착한 함선의 유지비: §R+$@giga_eawaf_weapons_repeatable_upkeep|%0$%§!"
+ giga_tech_eawaf_weapons_repeatable_title:0 "['concept_giga_eawaf_thaumaturgic_weapons', Thaumaturgic Weapons] 피해: §G+10%§!\n['concept_giga_eawaf_thaumaturgic_weapons', Thaumaturgic Weapons] 유지비: §R+5%§!"
  giga_tech_eawaf_sirens_secret:0 "신비로운 매혹"
  giga_tech_eawaf_sirens_secret_desc:0 "매혹적인 마법을 발휘하는 사이렌의 연구는 우리 정부와 사회에 큰 응용 가능성을 가질 수 있습니다."
  edict_giga_eawaf_sirens_secret:0 "$giga_tech_eawaf_sirens_secret$"
