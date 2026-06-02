@@ -20,7 +20,7 @@
  mem_defying_gravity.301.name:0 "떨어짐"
  mem_defying_gravity.301.desc:0 "$d_mem_defying_gravity_field_generator_deposit$의 비활성화로 인해 [Root.GetName] 위의 소행성이 방해받지 않고 항해를 계속하다가 행성과 충돌하여 거대한 분화구를 남겼습니다."
  mem_defying_gravity.301.a:0 "아..."
- mem_defying_gravity.301.a.tooltip:0 "[Root.GetName]의 표면에 새로운 £blocker£ 분화구가 생깁니다."
+ mem_defying_gravity.301.a.tooltip:0 "[Root.GetName]의 표면에 새로운 £blocker 크레이터가 생성됩니다."
  mem_defying_gravity.400.name:0 "바다의 그림자"
  mem_defying_gravity.400.desc:0 "[Root.GetName]는 정말 기이한 것을 보고합니다. \n\n[From.GetName] 위에 떠 있는 물체는 실제로 물체가 아닙니다. \n\n사실 그것은 행성의 일부를 덮고 있는 평평한 "바다"의 이국적인 입자들로 인해 발생한 광학적 착시입니다. 어떻게든 그것은 해당 입자들의 가장 큰 농도 위에 떠 있는 환상적인 구체를 만들어냅니다. \n\n이국적인 입자들 자체는 표면의 생명체에 방해가 되지 않을 것이지만, 다양한 형태의 이국적인 물질에 대한 많은 데이터를 제공할 가능성이 높습니다."
  mem_defying_gravity.400.a:0 "연구할 가치가 있군."

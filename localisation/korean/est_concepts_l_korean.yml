@@ -1,9 +1,9 @@
 ﻿l_korean:
- concept_militarism_admiral:0 "§C호전주의 제독 특성§!"
+ concept_militarism_admiral:0 "§CMilitarism 제독 특성§!"
  militarism_admiral:0 "$concept_militarism_admiral$"
  concept_militarism_admiral_desc:0 "£admiral_small£ §Y제독§!:\n£leader£ $species_leader_exp_gain$: §G+20%§!\n\n§Y제독이 이끄는 함대:§!\n£ship_stats_damage£ $ship_hull_damage_mult$: §G+1%§!\n£ship_stats_damage£ $ship_shield_damage_mult$: §G+1%§!\n£ship_stats_damage£ $ship_fire_rate_mult$: §G+1%§!\n£ship_stats_maintenance£ $ships_upkeep_mult$: §G-5%§!\n£ship_stats_special£ $ship_experience_gain_mult$: §G+25%§!"
  concept_militarism_admiral_free_desc:0 "£admiral_small£ §Y제독§!:\n£leader£ $species_leader_exp_gain$: §G+20%§!\n£unity£ $leaders_upkeep_mult$: §G-100%§!\n\n§Y제독이 이끄는 함대:§!\n£ship_stats_damage£ $ship_hull_damage_mult$: §G+1%§!\n£ship_stats_damage£ $ship_shield_damage_mult$: §G+1%§!\n£ship_stats_damage£ $ship_fire_rate_mult$: §G+1%§!\n£ship_stats_maintenance£ $ships_upkeep_mult$: §G-5%§!\n£ship_stats_special£ $ship_experience_gain_mult$: §G+25%§!"
- concept_militarism_general:0 "§C호전주의 장군 특성§!"
+ concept_militarism_general:0 "§CMilitarism 장군 특성§!"
  militarism_general:0 "$concept_militarism_general$"
  concept_militarism_general_desc:0 "£general_small£ §Y일반§!:\n£leader£ $species_leader_exp_gain$: §G20%§!\n\n§Y장군이 이끄는 군대:§!\n£army_power£ $army_attack_damage_mult$: §G+5%§!\n£army_power£ $army_morale_damage_taken_mult$: §G-40%§!\n£energy£ $armies_energy_upkeep_mult$: §G-5%§!"
  concept_militarism_general_free_desc:0 "£general_small£ §Y일반§!:\n£leader£ $species_leader_exp_gain$: §G+20%§!\n£unity£ $leaders_upkeep_mult$: §G-100%§!\n\n§Y장군이 이끄는 군대:§!\n£army_power£ $army_attack_damage_mult$: §G+5%§!\n£army_power£ $army_morale_damage_taken_mult$: §G-40%§!\n£energy£ $armies_energy_upkeep_mult$: §G-5%§!"

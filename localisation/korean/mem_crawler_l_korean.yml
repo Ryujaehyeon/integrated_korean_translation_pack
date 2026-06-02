@@ -35,7 +35,7 @@
  mem_crawler.10.a.spi:0 "우리의 경전에는 그런 내용따윈 없다."
  mem_crawler.10.b:0 "좋다. 그렇게 해라."
  mem_crawler.10.b.tooltip:0 "크라울러가 더 이상 우리 소유가 아닙니다."
- mem_crawler.11.desc:0 "안녕하세요. \n\n우리 [request_sender.GetRulerTitle] [request_sender.Ruler.GetName]는 이상하고 이국적인 존재들을 훌륭하게 채굴하는 채굴가입니다. 당신이 '크롤러'라고 부르는 독특한 생물을 발견했다는 사실이 우리에게 알려졌습니다. \n\n만약 당신이 그것을 판매할 의향이 있다면, 우리는 £energy£ §Y1000§!를 지불하겠습니다. 거래가 성사될까요?"
+ mem_crawler.11.desc:0 "안녕하세요. \n\n우리 [request_sender.GetRulerTitle] [request_sender.Ruler.GetName]는 이상하고 이국적인 존재들을 훌륭하게 채굴하는 채굴가입니다. 당신이 '크롤러'라고 부르는 독특한 생물을 발견했다는 소식을 들었습니다. \n\n판매할 의향이 있으시다면, 우리는 당신에게 £energy §Y1000§!을 지급하겠습니다. 거래를 하시겠습니까?"
  mem_crawler.11.a:0 "아니."
  mem_crawler.11.b:0 "거래하지."
  mem_crawler.11.b.tooltip:0 "크라울러가 더 이상 우리 소유가 아니게되며 [request_sender.Ruler.GetTitle] [request_sender.Ruler.GetName]의 야생 동물원으로 이송됩니다."

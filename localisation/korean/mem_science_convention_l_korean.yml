@@ -4,7 +4,7 @@
  mem_science_convention.1.ayes:0 "훌륭한 생각이군."
  mem_sciencecon_1.a.tooltip:0 "과학 협회는 준비 과정 중에 있으며 12개월 뒤에 완성될 것입니다."
  mem_sciencecon_1.b.tooltip:0 "과학 협회는 준비 과정 중에 있으며 12개월 뒤에 완성될 것입니다. 기다리는 동안 우린 초대장을 보내야 할 것입니다."
- mem_sciencecon_1.c.tooltip:0 "과학 대회를 시작할 수 없습니다. 자금이 부족합니다.\n필요한 자원 - \n£energy£ §Y250§! \n£minerals£ §Y250§!"
+ mem_sciencecon_1.c.tooltip:0 "과학 컨벤션을 시작할 수 없습니다. 자금이 부족합니다.\n필요한 자원 - \n£energy  §Y250§! \n£minerals  §Y250§!"
  mem_science_convention.1.ano:0 "아쉽게도 우린 이런 거대한 프로젝트를 진행할 자금이 없다."
  mem_science_convention.1.b:0 "그래, 또 누가 참여하고 싶어하는지 보자."
  mem_science_convention.1.c:0 "아니, 지금도 이미 충분히 힘든 작업이다."
