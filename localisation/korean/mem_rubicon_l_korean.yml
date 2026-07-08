@@ -48,7 +48,7 @@
  mem_rubicon.2.name:0 "은폐된 함선"
  mem_rubicon.2.desc:0 "[Leader.GetName]는 [Leader.GetSheHe] [Leader.GetHasHave]가 행성 잔해 필드의 가장 밀집된 부분에 미지의 선박이 존재한다는 것을 확인했다고 보고합니다. \n\n초기 관측 결과, 이 선박은 큰 바위 옆에 주차되어 있으며 현재로서는 안전하지만, 위험한 환경 때문에 안전하게 이동시키는 것은 불가능할 것입니다."
  mem_rubicon.2.a:0 "계속 관찰해야 한다."
- mem_rubicon.2.a.tooltip:0 "§S$mem_rubicon_hidden_ship$§!을 §Y[From.GetName]§!에 추가합니다: \n£engineering  엔지니어링 §G+6§!. \n그 위에 §S연구 기지§!를 건설하여 더 많은 정보를 찾아보세요."
+ mem_rubicon.2.a.tooltip:0 "§S$mem_rubicon_hidden_ship$§!을 §Y[From.GetName]§!에 추가합니다: \n£engineering£  엔지니어링 §G+6§!. \n그 위에 §S연구 기지§!를 건설하여 더 많은 정보를 찾아보세요."
  mem_rubicon_hidden_ship:0 "은폐된 함선"
  mem_rubicon_hidden_ship_desc:0 "우주 쓰레기 속에 함선이 하나 숨겨져 있습니다.\n\n§L연구 스테이션을 건설§!해야 더 자세히 조사할 수 있습니다."
  mem_rubicon.4.name:0 "흔치 않은 기회"

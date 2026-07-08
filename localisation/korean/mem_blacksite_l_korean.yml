@@ -133,7 +133,7 @@
  mem_blacksite.830.name:0 "비밀구역 탈주: 민간인 테러"
  mem_blacksite.830.desc:0 "여러 소식통이 일련의 파괴적인 공격이 우리 영토 전역에서 발생했다고 보고해왔습니다. 알 수 없는 방식으로 누군가가 우리 시설 중 일부에 침투했고, 강력한 폭발물을 심어둔 후 어떤 경보도 울리지 않은 채로 빠져나갔습니다.\n\n많은 추측이 있지만, 한때 우리 영토에서 운영되었던 비밀구역에서 탈출한 도망자가 범인일 가능성이 큽니다."
  mem_blacksite.830.a:0 "어떻게 이런 일이 있을 수 있지?!"
- mem_blacksite.830.a.tooltip:0 "모든 행성은 하나의 £building 건물이 §S파괴된§! 상태일 것입니다."
+ mem_blacksite.830.a.tooltip:0 "모든 행성은 하나의 £building£ 건물이 §S파괴된§! 상태일 것입니다."
  mem_blacksite.1001.name:0 "$mem_blacksite.2.name$"
  mem_blacksite.1001.desc:0 "이 멍청한 [Root.GetSpeciesNamePluralInsult]! 네가 무슨 짓을 했는지 알고있나?\n\n너희는 우리의 재산을 파괴했을 뿐만 아니라, 우리에게 귀중한 연구 자료를 희생시킨거야!\n\n대체 어떤 놈이 네게 행성파괴 병기를 사용하라고 지껄인거지?!"
  mem_blacksite.1001.a:0 "통신 꺼버려."
