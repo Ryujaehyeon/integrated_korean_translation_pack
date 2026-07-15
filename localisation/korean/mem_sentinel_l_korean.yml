@@ -17,3 +17,5 @@
  mem_sentinel_ship_size:0 "$battleship$"
  mem_sentinel_ship_size_plural:0 "$battleship_plural$"
  mem_sentinel_section_key:0 ""
+ mem_sentinel_site:0 "죽었고 매장된"
+ mem_sentinel_site_desc:0 "[From.Planet.GetPlanetMoon]에서 모래와 먼지에 묻혀있는 거대한 정체불명 함선이 발견되었습니다.\n\n생명이나 에너지 흐름은 감지되지 않지만, 함선 자체는 멀쩡한 상태로 보입니다."

@@ -106,7 +106,7 @@
  giga_maximum_mutation_desc:0 "우리의 유전적 운명을 추구하려면, 아무리 기이하고 난해해 보여도 가능한 모든 길을 고려해야 합니다."
  giga_prethoryn_larvae:0 "변이된 유충"
  giga_prethoryn_larvae_desc_short:0 "작고 꿈틀대는 유충입니다. 극도로 빠르게 성장합니다. 발밑에 깔려 으스러질 수도 있습니다."
- giga_prethoryn_larvae_desc_details: ""
+ giga_prethoryn_larvae_desc_details:0 ""
  giga_vat_maximum_mutation_1:0 "최대 변이: 인셉투스"
  giga_vat_maximum_mutation_2:0 "최대 변이: 비룰루스"
  giga_vat_maximum_mutation_3:0 "최대 변이: 아우레우스"

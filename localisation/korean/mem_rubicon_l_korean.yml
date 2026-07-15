@@ -92,3 +92,5 @@
  mem_rubicon_mended_ecosystem:0 "멘더 생태계"
  mem_rubicon_mended_ecosystem_desc:0 "이 행성의 생태계는 오래전에 멸종한 \"멘더\"들의 설계를 따라 처음부터 재구축되었습니다. 모든 것이 조화를 이룹니다."
  mem_rubicon_country_buff:0 "루비코니드"
+ leader_trait_mem_rubicon_mender:0 "멘더 마인드"
+ leader_trait_mem_rubicon_mender_desc:0 "이 AI는 멘더들의 함대를 이끌고 행성을 재건하는 역할을 둘 다 수행하였습니다. 이제는 다른 함대를 이끌도록 개조되었습니다."

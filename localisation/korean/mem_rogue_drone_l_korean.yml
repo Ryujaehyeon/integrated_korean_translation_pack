@@ -50,3 +50,5 @@
  mem_rogue_drone_refused:0 "악성 드론의 귀환을 거부했습니다."
  mem_rogue_drone_ungrateful:0 "고마워할 줄 모르는군"
  mem_rogue_drone.6d:0 "먹어라."
+ leader_trait_mem_rogue_drone:0 "독립한 드론"
+ leader_trait_mem_rogue_drone_desc:0 "이 지도자는 어떤 방법으로 자유 의지를 얻게 된 이전의 하이브 마인드 드론입니다."

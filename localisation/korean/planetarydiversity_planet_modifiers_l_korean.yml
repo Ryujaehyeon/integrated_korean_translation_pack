@@ -312,3 +312,5 @@
  pd_volcanic_desc:0 "$pc_volcanic_desc$"
  pd_ash:0 "$pc_pd_ash$"
  pd_ash_desc:0 "$pc_pd_ash_desc$"
+ pd_magma:0 "$pc_pd_magma$"
+ pd_magma_desc:0 "$pc_pd_magma_desc$"

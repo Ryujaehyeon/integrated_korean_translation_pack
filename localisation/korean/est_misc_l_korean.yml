@@ -722,3 +722,8 @@
  est_automation_2_tooltip:0 "자동화된 지구당 건물 유지비: §R£energy£$@est_upkeep_automation2$§!"
  est_automation_city_tooltip:0 "자동화된 구역당 건물 유지비: §R£energy£$@est_upkeep_automation2$§!"
  est_automation_city_2_tooltip:0 "자동화된 구역당 건물 유지비: §R£energy£$@est_upkeep_automation3$§!"
+ council_agenda_est_cybernetics_effect:0 "모든 행성에 대해 §G무료§!로 ['modifier:mod_est_cybernetics_1_factorio']를 적용합니다. 단, 기초 자원 자동화 건물이 있는 경우에 한합니다."
+ agenda_est_cybernetics_tankbound_finish:0 "$agenda_est_cybernetics_finish$"
+ council_agenda_agenda_est_cybernetics_tankbound_name:0 "$council_agenda_agenda_est_cybernetics_name$"
+ council_agenda_agenda_est_cybernetics_tankbound_desc:0 "$council_agenda_agenda_est_cybernetics_desc$"
+ council_agenda_est_cybernetics_tankbound_effect:0 "모든 행성에 대해 §G무료§!로 ['modifier:mod_est_cybernetics_1_factorio_tankbound']를 적용합니다. 단, 기초 자원 자동화 건물이 있는 경우에 한합니다."

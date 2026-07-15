@@ -41,3 +41,4 @@
  mod_job_giga_extra_crucible_drone_add:0 "[giga_extra_crucible_drone.GetName] 직업"
  mod_job_giga_extra_crucible_drone_per_pop:0 "§G+1§! [giga_extra_crucible_drone.GetName] 직업당 $VALUE$ 팝"
  mod_job_giga_extra_crucible_drone_per_pop_short:0 "\n$VALUE$ £pop£마다 £mod_job_giga_extra_healthcare_add£ §G+1§!"
+ mod_giga_logistic_growth_mult_extra_add:0 "월간 2차 인구 성장"

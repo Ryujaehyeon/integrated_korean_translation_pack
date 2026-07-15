@@ -127,3 +127,5 @@
  concept_giga_compendium_tech_terraform_shattered_desc:0 "선행 기술: ['concept_giga_compendium_tech_terraform_molten']\n§L$giga_tech_terraform_shattered_desc$§!"
  concept_giga_compendium_tech_macro_scale_weather_manipulation:0 "$giga_tech_macro_scale_weather_manipulation$"
  concept_giga_compendium_tech_macro_scale_weather_manipulation_desc:0 "선행 기술:\n-['technology:tech_sensors_3']\n-['technology:tech_cruisers']\n§L$giga_tech_macro_scale_weather_manipulation_desc$§!"
+ MEGASTRUCTURE_SCIENCE_KILO_BEST_SYSTEMS_TOOLTIP_HEADER:0 "§E과학 킬로구조물 잠재력이 가장 높은 항성계:§!"
+ MEGASTRUCTURE_FOOD_KILO_BEST_SYSTEMS_TOOLTIP_HEADER:0 "§E가장 높은 $name_planetary_seeder_nexus$ 잠재력을 가진 항성계:§!"

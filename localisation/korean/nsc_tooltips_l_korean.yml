@@ -35,3 +35,4 @@
  CLOAKING_FRIGATE_TOOLTIP:0 "함선 속도 보너스: §G25%§!\n프리깃 회피 보너스: §G15%§!"
  CLOAKING_BATTLECRUISER_TOOLTIP:0 "전투순양함 방어막 감소: §R80%§!\n전투순양함 속도 감소: §R50%§!"
  starbase_detection_limit_6.tooltip.fail:0 "항성기지마다 탐지 배열은 6개를 초과해 건설할 수 없습니다."
+ nsc_harvest_resources_ship_button:0 "지정된 행성이나 항성체에서 자원을 수확합니다."

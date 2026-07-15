@@ -17,3 +17,5 @@
  mem_diversity_outraged_xenophobe:0 "$mem_diversity_outraged$"
  mem_diversity_hired:0 "특별대우에 만족함"
  mem_diversity_humiliated:0 "인종차별적인 만행"
+ leader_trait_mem_diversity_outsider:0 "외부인"
+ leader_trait_mem_diversity_outsider_desc:0 "명백한 차별적 관행에도 불구하고 고용된 이 지도자는 자신의 종족의 가치를 증명하고자 열망합니다."

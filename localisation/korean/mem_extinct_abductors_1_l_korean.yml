@@ -143,3 +143,5 @@
  mem_ancient_fleet_headquarter_ruined:0 "폐허가 된 고대 함대 본부"
  mem_ancient_fleet_headquarter_ruined_DESC:0 "폐허가 된 고대 함대 본부입니다. 내부는 오래전 약탈자들이 다 뜯어가 텅 비었지만, 거대구조물의 주선체는 거의 완전합니다. 알맞은 기술과 대량의 자원이 있다면, 개장할 수 있을 것입니다."
  mem_ancient_fleet_headquarter_ruined_MEGASTRUCTURE_DETAILS:0 ""
+ mem_ea_uplifter_site:0 "외로운 전초기지"
+ mem_ea_uplifter_site_desc:0 "§Y[From.Planet.GetName]§!에서 발견된 시설은 궤도 폭격의 대상이 되었음에도 전체적인 구조는 여전히 멀쩡합니다. 하지만 내부는 완전히 엉망입니다. 무너진 방들과 복도에 가득한 잔해들이 우리 팀의 조사를 막고 있습니다. 폐허 내부로 안전하게 진입할 통로를 확보하기 위해선 중장비가 필요합니다."

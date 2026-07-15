@@ -44,3 +44,5 @@
  building_mem_outsiders_rift_power_plant:0 "니어티언즈 균열 발전소"
  building_mem_outsiders_rift_power_plant_desc:0 "발전소는 우주 사이의 작은 구멍을 찢어서 니어티안 고향 우주를 채우는 플럭스의 일부를 끌어내어 처리할 수 있습니다."
  d_dark_matter_deposit_2:0 "£sr_dark_matter£ §Y+2§!"
+ mem_outsiders_site:0 "외부인들"
+ mem_outsiders_site_desc:0 "황량한 [From.Planet.GetName]의 표면 아래에는 광활하지만 버려진 전초 기지가 숨겨져 있습니다. \n\n전초 기지의 고립과 이 [From.Planet.GetPlanetMoon]에서 생물권이 전혀 존재하지 않는 것은 이전 거주자들이 이 행성에서 기원하지 않았음을 분명히 보여줍니다. 그러나 그들이 왜 이곳에 정착하기로 선택했는지는 미스터리입니다."

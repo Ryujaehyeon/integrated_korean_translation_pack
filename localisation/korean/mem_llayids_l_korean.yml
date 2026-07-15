@@ -45,3 +45,4 @@
  mem_llayid_investigation_DESC:0 "우리는 오랫동안 사라진 문명의 비밀을 밝혀줄 수많은 시각 데이터 항목이 포함된 데이터 코어를 발견했습니다. 그러나 데이터를 읽고 번역하는 데 상당한 노력이 필요할 것입니다."
  mem_llayid_weapon_investigation:0 "초강력 무기 탐색"
  mem_llayid_weapon_investigation_DESC:0 "한때 [mem_llayid_planet.GetName] 주위를 돌던 서식지를 파괴한 무언가가 있었습니다. 아마도 그것을 초래한 슈퍼무기의 흔적과 우리가 우리만의 슈퍼무기를 만드는 방법을 여전히 찾을 수 있을 것입니다..."
+ mem_llayids_site:0 "문명의 흔적"

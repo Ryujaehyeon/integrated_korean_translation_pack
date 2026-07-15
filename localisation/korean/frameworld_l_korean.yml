@@ -782,3 +782,4 @@
  frameworld_expansion_fake_tooltip:0 "§Y$pc_giga_frameworld$§!에 §Y$d_frameworld_expansion$§!을 추가하며, 다음과 같은 효과를 얻습니다:\n    $mod_job_replicator_add$: §G+0.2§!\n    $MOD_POP_GROWTH_SPEED$: §G+2.5%§!\n    $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+2%§!\n    $MOD_PLANET_DECISION_ENACT_SPEED_MULT$: §G+2%§!\n    $MOD_PLANET_ARMY_BUILD_SPEED_MULT$: §G+2%§!\n    $MOD_POP_PURGE_SPEED$: §G+2%§!"
  frameworld_asteroid_fake_tooltip:0 "§Y$pc_giga_frameworld$§!에 §Y$d_frameworld_asteroid$§!을 추가하며, 다음과 같은 효과를 얻습니다:\n    $mod_district_giga_frameworld_mining_max$: §G+0.25§!"
  frameworld_penrose_fake_tooltip:0 "§Y[this.GetName]§!에 §Y$d_frameworld_penrose$§!를 추가하며, 다음과 같은 효과를 얻습니다:\n    $mod_planet_technician_energy_produces_add_planet$: §G+1§!\n    $mod_planet_technician_minerals_upkeep_add_planet$: §R+1§!"
+ giga_category_frameworld:0 "$giga_frameworld_docs_chain_title$"

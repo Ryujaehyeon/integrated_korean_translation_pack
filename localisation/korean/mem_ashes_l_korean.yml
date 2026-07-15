@@ -56,3 +56,7 @@
  mem_ashes.7.b.tooltip:0 "[their_species.GetNamePlural]들이 모두 죽을 것입니다."
  mem_ashes_leader_trait:0 "끈질긴 생존자"
  mem_ashes_leader_trait_desc:0 "이 지도자는 모성이 파괴되는 순간에서도 살아남아 두 번째 삶을 살고 있습니다."
+ trait_mem_ashes_survivors:0 "끈질긴 생존자들"
+ trait_mem_ashes_survivors_desc:0 "이 종족은 고향 세계의 파괴를 견뎌내고 기사회생의 기회를 얻었습니다. 그들은 이를 최대한 활용할 계획입니다."
+ leader_trait_mem_ashes:0 "끈질긴 생존자"
+ leader_trait_mem_ashes_desc:0 "이 지도자는 모성이 파괴되는 순간에서도 살아남아 두 번째 삶을 살고 있습니다."

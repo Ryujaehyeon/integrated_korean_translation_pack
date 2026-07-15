@@ -81,3 +81,5 @@
  MEM_PRE_HUM_remnant_plural:0 "해골들"
  humanoid_species:0 "인간형"
  IS_NOT_MULTIPLAYER:0 "멀티플레이어 게임이 아닙니다"
+ mod_pc_mem_death_habitability:0 "죽음의 행성 거주 적합성"
+ mem_can_not_embark:0 "£nomad£ 승선할 수 없습니다."

@@ -170,3 +170,5 @@
  MESSAGE_MEM_MADE_PRIMITIVE_DESC_UNITY:0 "$PLANET$이(가) 전-FTL 상태로 돌아갔고, 우리는 £unity£ 통합을 얻었습니다."
  MEM_TERRAFORMING_IMPOSSIBLE_EDEN:0 "기술 프로토콜에 따라 테라포밍은 우리의 기지 기반 장비를 사용하여 진행되어야 합니다."
  MEM_COLONIZATION_IMPOSSIBLE_EDEN:0 "$mem_eden_protocol_trigger_no$ §R이 프로토콜은 유기체를 위해 자연 세계를 보존합니다.§!"
+ mem_eden_protocol_devolve_relic_site:0 "단기 안전 버블"
+ mem_eden_protocol_devolve_relic_site_desc:0 "[From.Planet.GetName]의 깊은 지하에서 우리의 감지기가 희미한 흔적을 포착했습니다. 이 흔적의 서명은 FTL 준비가 거의 완료된 문명의 것과 일치합니다. 추가 조사가 이 미스터리를 해결할 것입니다."

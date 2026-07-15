@@ -26,3 +26,5 @@
  leader_trait_scientist_HUI_desc:0 "이 단독 버전에서는 사용되지 않습니다."
  leader_trait_hui_3:0 "초월적 지성"
  leader_trait_hui_3_desc:0 "이 단독 버전에서는 사용되지 않습니다."
+ edict_HUI_restore_lillian:0 "릴리안 스칼렛 복원"
+ edict_HUI_restore_lillian_desc:0 "비상 보호 조치입니다. 모드 충돌, 세이브 문제 또는 비정상적인 사망 상태로 §Y릴리안 스칼렛§!을 잃었다면, 이 법령이 그녀를 불사의 §B조언자§!로 재창조합니다."

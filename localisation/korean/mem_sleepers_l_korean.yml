@@ -95,3 +95,5 @@
  mem_sleepers.200.b.response:0 "그럼 나는 어떻게 해야 한단 말일세?!"
  mem_sleepers.200.c:0 "그렇다면 우리가 마무리를 짓지. 죽음으로서 고통에서 해방되는 것은 어떤가?"
  mem_sleepers.200.c.response:0 "그렇게 하게나. 나에겐 자네를 막을 힘이 없으니..."
+ leader_trait_mem_last_ozari:0 "마지막 오자리"
+ leader_trait_mem_last_ozari_desc:0 "오자리족은 생명공학 기술이 매우 뛰어났었습니다."

@@ -50,3 +50,5 @@
  r_mem_dwarf_fortress_boot_desc:0 "'게으른 일꾼을 부수는 망치'\n\n이것은 듀라스틸 장화입니다. 최고급 장인 기술로 제작되었습니다. 통치자가 노동자들을 때리고 발로 차는 모습을 묘사한 판화가 널리 새겨져 있습니다. 그것은 뉴트로늄 고리에 살아있는 금속의 송곳을 달아 장식하고 있으며 위협적입니다."
  leader_trait_mem_traumatized:0 "$leader_trait_traumatized$"
  leader_trait_mem_traumatized_desc:0 "$leader_trait_traumatized_desc$"
+ mem_dwarf_fortress.8.b:0 "채굴이라, 그렇지?"
+ mem_dwarf_fortress.9.b:0 "다시 일하러 가세, 친구들."

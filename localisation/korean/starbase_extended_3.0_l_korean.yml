@@ -1,4 +1,5 @@
 ﻿l_korean:
+ l_english:0
  starbase_stronghold:0 "항성성새"
  starbase_stronghold_plural:0 "항성성새"
  starbase_stronghold_cap:0 "주둔지"
@@ -172,3 +173,4 @@
  XL_BEAM_ORBITAL_RING_DESC:0 "궤도 고리 XL 빔"
  PERDITION_BEAM_ORBITAL_RING:0 "궤도 고리 파멸 광선"
  PERDITION_BEAM_ORBITAL_RING_DESC:0 "궤도 고리 파멸 광선"
+ sm_research_cat:0 "연구 지원"

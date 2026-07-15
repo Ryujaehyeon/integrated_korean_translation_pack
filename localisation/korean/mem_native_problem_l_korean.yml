@@ -24,3 +24,5 @@
  mem_native_problem_fear_desc:0 "이 행성의 주민들은 의문의 총격범에 대한 공포 속에서 살고 있습니다. 누구라도 다음 표적이 될 수 있습니다!"
  mem_leader_trait_native_problem_general:0 "생존자"
  mem_leader_trait_native_problem_general_desc:0 "이 지도자는 먼 행성에서 10년 이상 홀로 지내며 생존에 대한 몇 가지 지식을 가지고 있습니다."
+ leader_trait_mem_native_problem_general:0 "생존자"
+ leader_trait_mem_native_problem_general_desc:0 "이 지도자는 먼 행성에서 10년 이상 홀로 지내며 생존에 대한 몇 가지 지식을 가지고 있습니다."

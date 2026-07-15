@@ -67,7 +67,7 @@
  mem_primitives.701a.matphile:0 "그들은 그것을 극복하고 배울 것이다."
  mem_primitives.701.a.tooltip:0 "[pre_ftl_country.GetSpeciesNamePlural]는 다음 시대를 향한 진행 상황이 일부 감소합니다."
  mem_primitives.801.name:0 "[mem_primitives_the_planet.GetName]: 제국의 몰락"
- mem_primitives.801.desc:0 "우리의 관측 전초 기지에서 §Y[mem_primitives_the_planet.GetName]§!는 [From.GetSpeciesAdj] 문명이 거의 천 년 동안 단일 대제국에 의해 지배받아 왔다는 보고를 하였습니다. 이 제국은 세계의 거주 가능한 표면의 5분의 1 이상을 차지하고 있으며, 전성기에는 모든 [From.GetSpeciesNamePlural]의 거의 3분의 1을 포함하는 영토를 가지고 있어 학습과 문화의 중심지 역할을 해왔습니다. 도시가 건설되고, 기술이 발견되었으며, 새로운 번영의 수준에 도달하였습니다.\n\n그러나 지난 50년 동안 제국이 약화된 것으로 보입니다. 내부 갈등과 그들의 부를 노리는 새롭게 등장한 외부 적들의 조합이 제국을 약화시켰습니다. 최근, [From.GetSpeciesAdj] 지식인들이 "야만인"이라고 여기는 대군이 제국의 심장부로 침투하여 수도를 약탈하고 제국의 중심지에서 무자비하게 약탈하며 난동을 부렸습니다.\n\n비록 "야만인"들이 나중에 후퇴하였지만, 우리는 제국이 오래 버티지 못할 것이라고 믿습니다. 이는 [From.GetSpeciesNamePlural]에게 상당한 후퇴를 초래할 수 있습니다."
+ mem_primitives.801.desc:0 "우리의 관측 전초 기지에서 §Y[mem_primitives_the_planet.GetName]§!는 [pre_ftl_country.GetSpeciesAdj] 문명이 거의 천 년 동안 단일 대제국에 의해 지배받아 왔다는 보고를 하였습니다. 이 제국은 세계의 거주 가능한 표면의 5분의 1 이상을 차지하고 있으며, 전성기에는 모든 [pre_ftl_country.GetSpeciesNamePlural]의 거의 3분의 1을 포함하는 영토를 가지고 있어 학습과 문화의 중심지 역할을 해왔습니다. 도시가 건설되고, 기술이 발견되었으며, 새로운 번영의 수준에 도달하였습니다.\n\n그러나 지난 50년 동안 제국이 약화된 것으로 보입니다. 내부 갈등과 그들의 부를 노리는 새롭게 등장한 외부 적들의 조합이 제국을 약화시켰습니다. 최근, [pre_ftl_country.GetSpeciesAdj] 지식인들이 "야만인"이라고 여기는 대군이 제국의 심장부로 침투하여 수도를 약탈하고 제국의 중심지에서 무자비하게 약탈하며 난동을 부렸습니다.\n\n비록 "야만인"들이 나중에 후퇴하였지만, 우리는 제국이 오래 버티지 못할 것이라고 믿습니다. 이는 [pre_ftl_country.GetSpeciesNamePlural]에게 상당한 후퇴를 초래할 수 있습니다."
  mem_primitives.801a:0 "안됐군."
  mem_primitives.801a.materialist:0 "진보는 험난한 여정이다."
  mem_primitives.801a.sphobe:0 "무슨 상관이야?"

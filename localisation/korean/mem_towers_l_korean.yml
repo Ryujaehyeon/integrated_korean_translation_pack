@@ -40,3 +40,5 @@
  decision_mem_towers_transplant_desc:0 "유독성 행성에서 황 기반 생태계의 일부를 이식합니다. \n이 £blocker£ §RBlocker§!를 제거할 수 없습니다."
  mem_towers_unfit_for_transplant:0 "평범한 행성이어야 합니다"
  mem_towers_cant_remove_deposit:0 "이 £blocker£ 차단기는 제거할 수 없습니다."
+ leader_trait_mem_towers_brigadier:0 "브리게디어"
+ leader_trait_mem_towers_brigadier_desc:0 "이 AI는 행성 단위의 쓰레기 수거 및 재활용을 지휘하고 최적화시키도록 제작되었습니다."

@@ -6,7 +6,7 @@
  sm_drydock_desc_modifier:0 "각 §Y$sm_shipyard$§!의 건설 용량을 §G1§!만큼 증가시킵니다.\n"
  sm_fleet_anchorage:0 "함대 선거"
  sm_fleet_anchorage_desc:0 "빠르게 확장되는 우리 해군을 위한 표준 함대 정박지의 훨씬 더 큰 버전입니다.\n"
- sm_fleet_anchorage_desc_modifier:0 "§Y$함대 수용력$§! +100\n"
+ sm_fleet_anchorage_desc_modifier:0 "§Y$Fleet Capacity$§! +100\n"
  sm_sensor_station:0 "감지 스테이션"
  sm_sensor_station_desc:0 "스타베이스 센서 스테이션은 고급 센서 배열을 사용하여 여러 항성계에 걸쳐 우리의 정보 수집 능력을 확장하며, 우리의 국경 근처에서 발생할 수 있는 위협에 대한 고급 경고를 제공합니다.\n"
  sm_solar_panel:0 "태양광 패널"

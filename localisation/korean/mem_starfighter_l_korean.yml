@@ -20,3 +20,7 @@
  mem_starfighter.5.desc:0 "우리의 납치 셔틀이 [gamer.GetName]를 [primitive_civ.Capital_Scope.GetName]에서 성공적으로 회수했습니다. 초기 혼란 후, 관찰 연구원들이 [gamer.GetHerHim]에게 상황을 설명하는 데 성공했습니다. \n\n[gamer.GetHerHis]의 은하 전쟁 기술 덕분에 우리의 군사 지휘에 합류하라는 제안을 받은 [gamer.GetSheHe]는 이해할 수 없는 청소년 속어로 흥분한 발언을 하였으며, 이는 합리적으로 \"예\"로 해석될 수 있습니다."
  mem_starfighter.5.tooltip.admiral:0 "새로운 §Y제독§!을 얻는다."
  mem_starfighter.5.tooltip.general:0 "새로운 §Y장군§!을 얻는다."
+ leader_trait_mem_starfighter_admiral:0 "은하 전투의 챔피언"
+ leader_trait_mem_starfighter_admiral_desc:0 "이 지도자는 비디오 게임을 하는 엄격한 과정을 통해 원시 행성에서 모집되었습니다."
+ leader_trait_mem_starfighter_general:0 "$leader_trait_mem_starfighter_admiral$"
+ leader_trait_mem_starfighter_general_desc:0 "$leader_trait_mem_starfighter_admiral_desc$"

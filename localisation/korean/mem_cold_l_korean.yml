@@ -12,3 +12,7 @@
  mem_cold.4.a:0 "골칫거리군."
  mem_cold_irradiated_trait:0 "노출된"
  mem_cold_irradiated_trait_desc:0 "이 지도자는 대량의 이질적인 방사선에 노출되었습니다. 현재까지 초능력은 나타나지 않았으나, 악성 신생물은 다수 발생할 것으로 예상됩니다."
+ mem_cold_site:0 "달갑지 않은 위로"
+ mem_cold_site_desc:0 "§Y[From.Planet.GetName]§!의 표면은 매우 차가워, 시스템 내 위치에 기반한 예상보다 훨씬 더 차갑습니다. 현재 거주할 수는 없지만, [From.Planet.GetPlanetMoon]의 표면에는 산업 문명의 부패한 유적이 흩어져 있어, 상대적으로 최근에 매우 급격한 기후 변화가 있었음을 시사합니다."
+ leader_trait_mem_cold_irradiated:0 "노출된"
+ leader_trait_mem_cold_irradiated_desc:0 "이 지도자는 대량의 이질적인 방사선에 노출되었습니다. 현재까지 초능력은 나타나지 않았으나, 악성 신생물은 다수 발생할 것으로 예상됩니다."

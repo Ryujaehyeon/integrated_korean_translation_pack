@@ -129,3 +129,5 @@
  mem_space_monster_attacks.23.name:0 "독성 후보"
  mem_space_monster_attacks.23.desc:0 "우리 [Root.GetTerraformerPlural]는 이미 절차를 제안할 가이아포밍 후보를 적절히 선정하였고, 이를 테라포밍하기 시작했습니다."
  mem_space_monster_attacks.23.desc_alt:0 "우리 [Root.GetTerraformerPlural]는 가이아 형성 후보에 적합한 대상을 찾지 못했습니다. 이미 투입된 자원은 대신 우리의 연구에 투자될 것입니다."
+ TECH_UNLOCK_tech_mem_toxic_gaiaforming_TITLE:0 "§Y유물 잠금 해제:§! $r_mem_amoeba_sample$"
+ TECH_UNLOCK_tech_mem_toxic_gaiaforming_DESC:0 "$r_mem_amoeba_sample_desc$"

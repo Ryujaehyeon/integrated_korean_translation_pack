@@ -421,4 +421,5 @@
  mod_planet_maintenance_drones_sr_zro_produces_add:0 "$sr_zro_produced_per_pop_group_unit$ £pop_cat_simple_drone£ 유지 보수 드론"
  mod_pop_category_workers_energy_upkeep_add:0 "$energy_upkeep_per_pop_group_unit$ $WORKERS$"
  mod_pop_category_workers_sr_zro_produces_add:0 "$sr_zro_produced_per_pop_group_unit$ $WORKERS$"
- mod_country_biomass_produces_mult: "Monthly £biomass£ Biomass Created"
+ mod_country_biomass_produces_mult:0 "매월 £biomass£ 바이오매스 생성"
+ mod_est_cybernetics_1_factorio_tankbound:0 "$mod_est_cybernetics_1_factorio$"

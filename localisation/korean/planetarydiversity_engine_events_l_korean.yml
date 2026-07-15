@@ -137,3 +137,4 @@
  pdengine.96.wet_gaia_tidally_locked:0 "습기 있는 기후"
  pdengine.96.dry_gaia_tidally_locked:0 "건조 기후"
  pdengine.96.cold_gaia_tidally_locked:0 "차가운 기후"
+ pdengine.21.magma:0 "$pc_pd_magma$"
