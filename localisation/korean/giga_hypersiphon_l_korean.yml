@@ -240,4 +240,6 @@
  giga_hypersiphon_storm_2:0 "기가 초공간 흡입 폭풍 2"
  giga_hypersiphon_storm_3:0 "기가 초공간 흡수 폭풍 3"
  giga_hypersiphon_storm_4:0 "기가 초공간 흡수 폭풍 4"
- giga_fleet_power_scaling_buff:0 "기가 함대 전투력 배율 증가"
+ giga_fleet_power_scaling_buff:0 "하이퍼사이폰 배율 버프"
+ giga_hypersiphon_excess_buff_hp:0 "$giga_fleet_power_scaling_buff$"
+ giga_hypersiphon_excess_buff_damage:0 "$giga_fleet_power_scaling_buff$"

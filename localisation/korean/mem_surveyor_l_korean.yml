@@ -438,3 +438,4 @@
  mem_surveyor.5.desc.fc:0 "좋아요, 알겠어요. 대화하죠. 단지 매우 중요하니까, 매우 매우 사적인 채널로 부탁드려요.\n\n저는 §Y알크리 제국§!에서 설계되어 고용된 탐사선입니다. 은하를 탐사하고 창조자들의 상황을 평가하기 위해서죠. 제 주된 목표는 알크리의 미래에 대한 외계 생명체의 위협을 확인하고 억제하는 것입니다. 현재 이 유닛은 §S[mem_surveyor_country.mem_surveyor_iteration_count]§!를 탐사하고 있어요. 완료까지의 예상 시간: §S-1955년§!."
  tech_mem_surveyor_alkree_secrets:0 "알크리의 비밀"
  tech_mem_surveyor_alkree_secrets_desc:0 "알크리는 그들의 많은 고급 데이터 처리기술을 측량 프로브의 설계에 포함시켰습니다. 그리고 그 기술은 이제 우리것입니다."
+ mem_surveyor.127.a.answer:0 "제 발견을 전송합니다 ... §G<<<즐거운 기계음 웅웅>>>§!"

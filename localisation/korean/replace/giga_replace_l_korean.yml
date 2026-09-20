@@ -61,7 +61,7 @@
  crisis_sphere_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_crisis$ - $giga_list_category_special$\n$crisis_sphere_0_DESC$\n§L우리의 정신은 더 이상 연약한 육체의 물리적 제약에 얽매이지 않을 것이며, 현실 자체는 우리의 뜻대로 될 것입니다. 정말로, 더 높은 존재의 차원은 존재할 수 없습니다.§!"
  galactic_crucible_0:0 "$gc_crisis$은하의 제련소 프레임"
  galactic_crucible_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_crisis$ - $giga_list_category_special$\n이 거대한 기지는 모항성으로부터 에너지를 흡수하여 §Y$entropy_conduit_plural$§!; 별의 운명을 재편할 수 있는 함선을 생산하는 자동화된 조선소에 전력을 공급합니다.\n§L$galactic_crucible_0_DESC$§!"
- grand_archive_0:0 "$gc_kilo$$grand_archive$"
+ grand_archive_0:0 "§B$grand_archive$§!"
  grand_archive_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_kilostructure$ - $giga_list_category_miscellaneous$\n우리가 은하 전역에서 수집한 가장 귀중한 유물을 보존하고 전시합니다.\n§L우리가 은하 전역에서 수집한 주목할 만한 표본, 생생한 우주 생물체를 포함하여 수용하고 전시하기 위해 설계된 전용 궤도 구조물입니다.§!"
  deep_space_citadel_0:0 "$gc_kilo$$tech_deep_space_citadel$"
  deep_space_citadel_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_kilostructure$ - $giga_list_category_defensive$\n중력장 내에서 최대 방어를 위해 설계된 장갑 함대 기지인 §Y$deep_space_citadel_0$§!입니다.\n§L$deep_space_citadel_0_DESC$§!"

@@ -156,3 +156,4 @@
  mod_planet_traders_unity_produces_add:0 "£job_trader£ 무역상 추가 £unity£ 생산량"
  mod_planet_civilians_unity_produces_add:0 "£pop_cat_civilian£ $pop_cat_civilian_plural$ 추가 £unity£ 생산"
  mod_esap_pacifist_1: "Cooperating with Pacifists"
+ mod_shipsize_corvette_experience_gain_mult:0 "초계함 경험치 획득"

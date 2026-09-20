@@ -105,3 +105,6 @@
  mem_options.16.c:0 "$cruiser$"
  mem_options.16.d:0 "$battleship$"
  mem_options.16.e:0 "전투순양함"
+ mem_options.15.i:0 "위대한 보그고"
+ mem_options.15.j:0 "클로고 (6종)"
+ mem_options.15.k:0 "플로고 (4종)"

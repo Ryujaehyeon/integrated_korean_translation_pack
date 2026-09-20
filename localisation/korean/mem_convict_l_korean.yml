@@ -52,3 +52,4 @@
  mem_convict.10.desc:0 "[Root.GetName]은(는) [From.GetName] 표면의 계곡이 실제로 불시착의 결과임을 확인할 수 있었습니다. 이 사건은 약 천 년 전에 발생한 것으로 추정됩니다. 함선의 특이한 특징 중 하나는 화물창에 있는 정지장이지만 오래전에 고장이 났고 탑승자의 먼지만 남았습니다.\n\n[Leader.GetName]은(는) 우리 연구에 유용할 수 있는 우주선의 특이한 설계에 대한 통찰을 얻을 수 있었습니다."
  bombardment_mem_armageddon:0 "$bombardment_armageddon$"
  bombardment_mem_armageddon_desc:0 "$bombardment_armageddon_desc$"
+ mem_convict.7.c.response:0 "그것은 매우..... 고통스러울 것입니다.저는 그걸 추천하지 않습니다."

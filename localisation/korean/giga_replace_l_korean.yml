@@ -44,7 +44,7 @@
  crisis_sphere_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_crisis$ - $giga_list_category_special$\\n$crisis_sphere_0_DESC$\\n§LOur minds will no longer be limited by the physical constraints of our feeble bodies, and reality itself shall be at our mercy. Truly, there can be no higher plane of existence.§!"
  galactic_crucible_0:0 "$gc_crisis$Galactic Crucible Frame"
  galactic_crucible_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_crisis$ - $giga_list_category_special$\\nThis vast station siphons energy from its host star, powering automated shipyards that produce §Y$entropy_conduit_plural$§!; vessels capable of reshaping stellar destinies.\\n§L$galactic_crucible_0_DESC$§!"
- grand_archive_0:0 "$grand_archive$"
+ grand_archive_0:0 "§B$grand_archive$§!"
  grand_archive_0_MEGASTRUCTURE_DETAILS:1 "$giga_list_category_kilostructure$ - $giga_list_category_miscellaneous$\n은하계 전역에서 수집한 가장 가치 있는 유물들을 보존하고 전시합니다.\n§L살아있는 우주 동물군을 포함하여 은하계 전역에서 수집한 주목할 만한 표본들을 보관하고 전시하도록 설계된 전용 궤도 구조물입니다.§!"
  deep_space_citadel_0:0 "$gc_kilo$$tech_deep_space_citadel$"
  deep_space_citadel_0_MEGASTRUCTURE_DETAILS:0 "$giga_list_category_kilostructure$ - $giga_list_category_defensive$\\nA §Y$deep_space_citadel_0$§! is an armored Starbase designed for maximum defense within a stellar gravity well.\\n§L$deep_space_citadel_0_DESC$§!"

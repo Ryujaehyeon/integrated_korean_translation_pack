@@ -1,5 +1,5 @@
 ﻿l_korean:
- special_leader_traits_esap: "special leader traits"   # Just in case the concept flavor name does not accept spaces.
+ special_leader_traits_esap:0 "특수 지도자 특성"
  concept_esap_government_perk: "Government Perk"
  concept_esap_government_perk_desc: "$concept_esap_government_perks_desc$"
  concept_esap_government_perks: "Government Perks"

@@ -174,3 +174,5 @@
  PERDITION_BEAM_ORBITAL_RING:0 "궤도 고리 파멸 광선"
  PERDITION_BEAM_ORBITAL_RING_DESC:0 "궤도 고리 파멸 광선"
  sm_research_cat:0 "연구 지원"
+ sm_orbital_reactor:0 "스타베이스 발전소"
+ sm_orbital_reactor_desc:0 "우리 제국의 에너지 생산을 향상시키는 스타베이스 발전소를 건설합니다"
