@@ -1,0 +1,117 @@
+# Constructor(건설선) 선박 크기 override
+#
+# 문제: Sins of the Prophets Updated(workshop 3306747204)의 common/ship_sizes/nsc_ship_sizes.txt가
+#       constructor를 옛 정의로 통째로 재정의하여, 4.4에서 추가된 construction_capabilities 블록이
+#       사라지고 건설선에 건설 옵션이 없는("명령 없음") 문제가 생긴다.
+# 해결: 바닐라 Stellaris 4.4.6(common/ship_sizes/00_ship_sizes.txt)의 constructor 블록을 그대로 복사하고,
+#       SotP 정의의 potential_construction 블록만 추가했다. (통합팩은 로드 순서 마지막이라 이 정의가 최종 적용된다.)
+# 주의: 바닐라 4.4.6 기준이다. 게임 버전이 바뀌어 바닐라 constructor 정의가 변경되면 재동기화해야 한다.
+#       SotP가 비활성인 경우 potential_construction의 nsc_flagship_shipyard_complete는 정의되지 않은 참조가 된다.
+
+constructor = {
+	max_speed = @speed_fast
+	acceleration = 0.3
+	rotation_speed = 0.2
+	max_hitpoints = @construction_hp
+	modifier = {
+		ship_evasion_add = @construction_evasion
+	}
+	size_multiplier = 1
+	map_counter_icon = ship_counter_4
+	icon = ship_size_constructor
+	fleet_slot_size = 1
+	section_slots = { "mid" = { locator = "part1" } }
+	num_target_locators = 0
+	is_space_station = no
+	base_buildtime = @construction_build_time
+
+	combat_disengage_chance = 1.0
+
+	enable_default_design = yes	#if yes, countries will have an auto-generated design at start
+	enable_3dview_in_ship_browser = yes #if yes, ship design will have a 3d view in the ship browser
+#	prerequisites = { "tech_space_construction" }	# Commented out to hide from the technology card
+	is_civilian = yes
+	is_designable = no
+	components_add_to_cost = no
+	class = shipclass_constructor
+	construction_type = { starbase_shipyard starbase_beastport }
+	required_component_set = "power_core"
+	required_component_set = "ftl_components"
+	required_component_set = "thruster_components"
+	required_component_set = "sensor_components"
+	valid_target_aggressive_stance = no
+	auto_upgrade = yes
+
+	construction_capabilities = {
+		starbase
+		mining_station
+		research_station
+		observation_station
+		automated_construction
+		megastructure
+	}
+
+	resources = {
+		category = ships
+		cost = {
+			trigger = {
+				from = {
+					country_uses_bio_ships = no
+				}
+			}
+			alloys = @construction_ship_cost
+		}
+		cost = {
+			trigger = {
+				from = {
+					country_uses_bio_ships = yes
+				}
+			}
+			alloys = @construction_ship_cost
+			mult = 0.5
+		}
+		cost = {
+			trigger = {
+				from = {
+					country_uses_bio_ships = yes
+				}
+			}
+			food = @construction_ship_cost
+			mult = @halved_alloy_to_food_cost_ratio
+		}
+
+		upkeep = {
+			energy = @construction_upkeep_energy
+			alloys = @construction_upkeep_alloys
+		}
+	}
+
+	potential_country = {
+		is_nomadic = no
+		OR = {
+			has_technology = tech_hyper_drive_1
+			has_technology = tech_hyper_drive_2
+			has_technology = tech_hyper_drive_3
+			has_technology = tech_jump_drive_1
+			has_technology = tech_psi_jump_drive_1
+		}
+	}
+
+	potential_construction = {
+		OR = {
+			is_scope_type = starbase
+			AND = {
+				is_scope_type = megastructure
+				NOT = { is_megastructure_type = nsc_flagship_shipyard_complete }
+			}
+		}
+	}
+
+	available_to_everyone = yes
+
+	ai_ship_data = {
+		min = value:desired_constructors_min
+		system_mult = 0.15
+		max = value:desired_constructors_max
+	}
+}
